@@ -4,8 +4,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ### Contents
 
-* [1. Survey Papers](#1-Survey-Papers)
-* [2. Efficient Attention](#2-Efficient-Attention)
+* [1. Books](#1-Survey-Papers)
+* [2. Survey Papers](#2-Efficient-Attention)
   * [2.1 Sparse Attention](#21-Sparse-Attention)
   * [2.2 Linear Attention](#22-Linear-Attention)
   * [2.3 Hierarchical Attention](#23-Hierarchical-Attention)
@@ -26,4 +26,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 * [Acknowledgements](#acknowledgements)
 
 
-# 📜 Papers
+# 📜 Books
+
+[Optimization Algorithms on Matrix Manifolds.](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n)
+
+#
