@@ -20,6 +20,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ## Acceleration
 
+[Understanding Riemannian acceleration via a proximal extragradient framework](https://proceedings.mlr.press/v178/jin22a/jin22a.pdf). *COLT*. 2022
+
 [A variational formulation of accelerated optimization on Riemannian manifolds](https://epubs.siam.org/doi/abs/10.1137/21M1395648). *SIAM J. Math. Data Sci.* 2022.
 
 [Global Riemannian acceleration in hyperbolic and spherical spaces](https://proceedings.mlr.press/v167/martinez-rubio22a/martinez-rubio22a.pdf). *ALT*. 2022.
