@@ -20,9 +20,17 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ## Acceleration
 
+[A variational formulation of accelerated optimization on Riemannian manifolds](https://epubs.siam.org/doi/abs/10.1137/21M1395648). *SIAM J. Math. Data Sci.* 2022.
+
+[Global Riemannian acceleration in hyperbolic and spherical spaces](https://proceedings.mlr.press/v167/martinez-rubio22a/martinez-rubio22a.pdf). *ALT*. 2022.
+
+[Accelerated Gradient Methods for Geodesically Convex Optimization: Tractable Algorithms and Convergence Analysis](https://proceedings.mlr.press/v162/kim22k/kim22k.pdf). *ICML*. 2022.
+
 [Accelerated optimization with orthogonality constraints](https://www.global-sci.org/intro/article_detail.html?journal=undefined&article_id=18372). *J. Comp. Math.* 2021.
 
 [Momentum Improves Optimization on Riemannian Manifolds](https://proceedings.mlr.press/v130/alimisis21a/alimisis21a.pdf). *AISTATS*. 2021.
+
+[From Nesterov’s Estimate Sequence to Riemannian Acceleration](https://proceedings.mlr.press/v125/ahn20a/ahn20a.pdf). *COLT*. 2020. 
 
 [A continuous-time perspective for modeling acceleration in Riemannian optimization](https://proceedings.mlr.press/v108/alimisis20a/alimisis20a.pdf) *AISTATS*. 2020.
 
