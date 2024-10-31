@@ -10,6 +10,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
   * [1. Books](#books)
   * [2. Papers](#papers)
     * [Acceleration](#acceleration)
+    * [Quasi-Newton Methods](#quasi-newton-methods)
+    * [Second-Order Methods](#second-order-methods)
     * [Geodesic Convex Optimization](#geodesic-convex-optimization)
     * [Stochastic Optimization](#stochastic-optimization)
       * [Variance Reduction](#variance-reduction)
@@ -62,6 +64,14 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Towards Riemannian accelerated gradient methods](https://arxiv.org/pdf/1806.02812) *Arxiv*. 2018. 
 
+
+## Quasi-Newton Methods
+> Quasi-Newton methods on Riemannian manifolds.
+
+[A Broyden Class of Quasi-Newton Methods for Riemannian Optimization](https://epubs.siam.org/doi/10.1137/140955483) *SIAM J. Optim.* 2015.
+
+
+
 ## Stochastic Optimization
 > Methods for stochastic and finite-sum optimization on Riemannian manifolds
 
@@ -72,6 +82,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 
 ### Variance Reduction
+
+
 
 [Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds](https://proceedings.neurips.cc/paper_files/paper/2016/file/98e6f17209029f4ae6dc9d88ec8eac2c-Paper.pdf) *NeurIPS*. 2016.
 
@@ -95,6 +107,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ## Bilevel and Min-max Optimization
 > Methods for solving bilevel and min-max optimization on manifolds
+
+### Bilevel Optimization
+
+### Min-max Optimization
+
 
 ## Scalable Riemannian Optimization
 > Tackling expensive retraction for scaling Riemannian optimization
