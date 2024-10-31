@@ -77,6 +77,8 @@
 
 [Faster First-Order Methods for Stochastic Non-Convex Optimization on Riemannian Manifolds](https://proceedings.mlr.press/v89/zhou19a/zhou19a.pdf) *AISTATS*. 2019. *IEEE Trans. Pattern Anal. Mach. Intell.* 2021.
 
+[Escape saddle points faster on manifolds via perturbed riemannian stochastic recursive gradient](https://arxiv.org/pdf/2010.12191) *Arxiv*. 2020.
+
 [Riemannian stochastic variance reduced gradient algorithm with retraction and vector transport](https://epubs.siam.org/doi/abs/10.1137/17M1116787) *SIAM J. Optim.* 2019.
 
 [R-SPIDER: A fast Riemannian stochastic optimization algorithm with curvature independent rate](https://arxiv.org/pdf/1811.04194) *Arxiv*. 2018.
