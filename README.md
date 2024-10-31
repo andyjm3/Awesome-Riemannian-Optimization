@@ -175,10 +175,13 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ### Bilevel Optimization
 
+[Riemannian Bilevel Optimization](https://arxiv.org/pdf/2402.02019) *Arxiv*. 2024.
 
 ### Min-max Optimization
 
 [Sion's minimax theorem in geodesic metric spaces and a Riemannian extragradient algorithm](https://epubs.siam.org/doi/full/10.1137/22M1505475) *SIAM J. Optim.* 2023.
+
+[First-Order Algorithms for Min-Max Optimization in Geodesic Metric Spaces](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ad9a1a6ffac3dd72cc1df96019eca01-Paper-Conference.pdf) *NeurIPS*. 2022.
 
 [Extragradient Type Methods for Riemannian Variational Inequality Problems](https://proceedings.mlr.press/v238/hu24c/hu24c.pdf) *AISTATS*. 2024.
 
