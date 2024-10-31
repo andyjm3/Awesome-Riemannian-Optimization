@@ -9,7 +9,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
   * [2.1 Acceleration](#Acceleration)
   * [2.1 Stochastic Optimization](#Stochastic-Optimization)
   * [2.2 Scalable Riemannian Optimization](#Scalable-Riemannian-Optimization)
-     * [Stiefel manifold](#Stiefel-Manifold)
+     * [Stiefel (Orthogonal) Manifold](#Stiefel-Orthogonal-Manifold)
+     * [General Manifold](#General-Manifold)
 
 # 📘 Books
 
@@ -52,15 +53,27 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Scalable Riemannian Optimization
 > Tackling expensive retraction for scaling Riemannian optimization.
 
-### Stiefel Manifold
+### Stiefel (Orthogonal) Manifold
 
-[A Class of Smooth Exact Penalty Function Methods for Optimization Problems with Orthogonality Constraints](https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1852236) *Optim. Methods Softw.* 2020
+[Solving Optimization Problems over the Stiefel Manifold by Smooth Exact Penalty Functions](https://global-sci.org/intro/article_detail.html?journal=undefined&article_id=23277)  *J. Comp. Math.* 2024.
 
-[Parallelizable algorithms for optimization problems with orthogonality constraints](https://epubs.siam.org/doi/10.1137/18M1221679) *SIAM J. Sci. Comput.* 2019
+[A Block Coordinate Descent Method for Nonsmooth Composite Optimization under Orthogonality Constraints](https://arxiv.org/pdf/2304.03641) *Arxiv*. 2023.
 
+[Infeasible Deterministic, Stochastic, and Variance-Reduction Algorithms for Optimization under Orthogonality Constraints](https://arxiv.org/pdf/2303.16510) *Arxiv*. 2023.
 
+[Fast and accurate optimization on the orthogonal manifold without retraction](https://proceedings.mlr.press/v151/ablin22a/ablin22a.pdf) *AISTATS*. 2022.
 
+[A Class of Smooth Exact Penalty Function Methods for Optimization Problems with Orthogonality Constraints](https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1852236) *Optim. Methods Softw.* 2020.
 
+[Parallelizable algorithms for optimization problems with orthogonality constraints](https://epubs.siam.org/doi/10.1137/18M1221679) *SIAM J. Sci. Comput.* 2019.
+
+### SPD Manifold
+
+[Low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/pdf/2305.02041) *Arxiv*. 2023.
+
+### General Manifold
+
+[Dissolving Constraints for Riemannian Optimization](https://dl.acm.org/doi/abs/10.1287/moor.2023.1360) *Math. Oper. Res.* 2023.
 
 
 
