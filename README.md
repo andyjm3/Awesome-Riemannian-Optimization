@@ -7,8 +7,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 <details open>
   <summary><h2><b> Contents </b></h2></summary>
 
-  * [1. Books](#books)
-  * [2. Papers](#papers)
+  * [1. Books](#1-books)
+  * [2. Papers](#2-papers)
     * [Acceleration](#acceleration)
     * [Quasi-Newton Methods](#quasi-newton-methods)
     * [Second-Order Methods](#second-order-methods)
@@ -23,16 +23,16 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
       * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
       * [SPD Manifold](#spd-manifold)
       * [General Manifold](#general-manifold)
-   * [3. Software](#software) 
+   * [3. Software](#3-software) 
 </details>
 
-# 📘 Books
+# 1. Books
 
 1. [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n) *Cambridge University Press*. 2023
 
 2. [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/) *Princeton University Press*. 2008.
 
-# 📜 Papers
+# 2. Papers
 
 ## Acceleration
 > Accelerated gradient methods and analysis on Riemannian manifolds. 
@@ -185,7 +185,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Trivializations for Gradient-Based Optimization on Manifolds](https://proceedings.neurips.cc/paper_files/paper/2019/file/1b33d16fc562464579b7199ca3114982-Paper.pdf) *NeurIPS*. 2019.
 
-# 🖥️ Software
+# 3. Software
 
 1. [ManOpt](https://github.com/NicolasBoumal/manopt): A Matlab toolbox for optimization on manifolds.
 2. [Pymanopt](https://github.com/pymanopt/pymanopt): A Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation.
