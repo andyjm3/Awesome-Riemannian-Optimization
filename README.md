@@ -1,5 +1,5 @@
-# Riemannian Optimization and its Applications
-This repo contains papers, books, tutorials and resources on Riemannian optimization and its applications.
+# A Handbook on Riemannian Optimization
+This repo contains papers, books, tutorials and resources on Riemannian optimization.
 
 
 ### Contents
@@ -20,9 +20,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ## Acceleration
 
+[Riemannian accelerated gradient methods via extrapolation](https://proceedings.mlr.press/v206/han23a/han23a.pdf). *AISTATS*. 2023.
+
 [Accelerated Riemannian Optimization: Handling Constraints with a Prox to Bound Geometric Penalties](https://proceedings.mlr.press/v195/martinez-rubio23a/martinez-rubio23a.pdf). *COLT*. 2023.
 
-[Understanding Riemannian acceleration via a proximal extragradient framework](https://proceedings.mlr.press/v178/jin22a/jin22a.pdf). *COLT*. 2022
+[Understanding Riemannian acceleration via a proximal extragradient framework](https://proceedings.mlr.press/v178/jin22a/jin22a.pdf). *COLT*. 2022.
 
 [A variational formulation of accelerated optimization on Riemannian manifolds](https://epubs.siam.org/doi/abs/10.1137/21M1395648). *SIAM J. Math. Data Sci.* 2022.
 
