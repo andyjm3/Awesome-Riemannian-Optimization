@@ -12,7 +12,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
     * [Acceleration](#acceleration)
     * [Quasi-Newton Methods](#quasi-newton-methods)
     * [Second-Order Methods](#second-order-methods)
-    * [Geodesic Convex Optimization](#geodesic-convex-optimization)
+    * [Geodesic Convex and Nonconvex Optimization](#geodesic-convex-and-nonconvex-optimization)
     * [Stochastic Optimization](#stochastic-optimization)
       * [Variance Reduction](#variance-reduction)
       * [Adaptive Gradient](#adaptive-gradient)
@@ -71,6 +71,16 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [A Broyden Class of Quasi-Newton Methods for Riemannian Optimization](https://epubs.siam.org/doi/10.1137/140955483) *SIAM J. Optim.* 2015.
 
 
+## Second-order Methods
+> Second-order methods on Riemannian manifolds.
+
+[Inexact trust-region algorithms on Riemannian manifolds](https://proceedings.neurips.cc/paper_files/paper/2018/file/3e9e39fed3b8369ed940f52cf300cf88-Paper.pdf) *NeurIPS*. 2018.
+
+[RTRMC: A Riemannian trust-region method for low-rank matrix completion](https://proceedings.neurips.cc/paper_files/paper/2011/file/37bc2f75bf1bcfe8450a1a41c200364c-Paper.pdf) *NeurIPS*. 2011.
+
+[Trust-Region Methods on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10208-005-0179-9) *Found. Comput. Math.* 2006.
+
+
 
 ## Stochastic Optimization
 > Methods for stochastic and finite-sum optimization on Riemannian manifolds
@@ -91,14 +101,16 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 
 
-## Geodesic Convex Optimization
-> Convergence theory, analysis and lower bound for geodesic convex optimization on Riemannian manifolds
+## Geodesic Convex and Nonconvex Optimization
+> Convergence theory, analysis and lower bound for geodesic convex and nonconvex optimization on Riemannian manifolds
 
 [Curvature and complexity: Better lower bounds for geodesically convex optimization](https://proceedings.mlr.press/v195/criscitiello23a/criscitiello23a.pdf) *COLT*. 2023.
 
 [Negative curvature obstructs acceleration for strongly geodesically convex optimization, even with exact first-order oracles](https://proceedings.mlr.press/v178/criscitiello22a/criscitiello22a.pdf) *COLT*. 2022.
 
 [A No-go Theorem for Robust Acceleration in the Hyperbolic Plane](https://openreview.net/pdf?id=twz1QqzU0Hp) *NeurIPS*. 2021.
+
+[Global rates of convergence for nonconvex optimization on manifolds](https://academic.oup.com/imajna/article/39/1/1/4836777) *IMA J. Numer. Anal.* 2019.
 
 [Geodesic convex optimization: Differentiation on manifolds, geodesics, and convexity](https://arxiv.org/pdf/1806.06373) *Arxiv*. 2018.
 
