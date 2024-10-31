@@ -69,6 +69,18 @@
 
 ### Variance Reduction
 
+[Riemannian SVRG Using Barzilai–Borwein Method as Second-Order Approximation for Federated Learning](https://www.mdpi.com/2073-8994/16/9/1101) *Symmetry* 2024.
+
+[Improved Variance Reduction Methods for Riemannian Non-Convex Optimization](https://ieeexplore.ieee.org/document/9536452) *IEEE Trans. Pattern Anal. Mach. Intell.* 2022.
+
+[Riemannian stochastic recursive momentum method for non-convex optimization](https://www.ijcai.org/proceedings/2021/0345.pdf) *IJCAI*. 2021.
+
+[Faster First-Order Methods for Stochastic Non-Convex Optimization on Riemannian Manifolds](https://proceedings.mlr.press/v89/zhou19a/zhou19a.pdf) *AISTATS*. 2019. *IEEE Trans. Pattern Anal. Mach. Intell.* 2021.
+
+[Riemannian stochastic variance reduced gradient algorithm with retraction and vector transport](https://epubs.siam.org/doi/abs/10.1137/17M1116787) *SIAM J. Optim.* 2019.
+
+[Riemannian stochastic recursive gradient algorithm](https://proceedings.mlr.press/v80/kasai18a.html) *ICML*. 2018.
+
 [MASAGA: A Linearly-Convergent Stochastic First-Order Method for Optimization on Manifolds](https://link.springer.com/chapter/10.1007/978-3-030-10928-8_21) *ECML*. 2018.
 
 [Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds](https://proceedings.neurips.cc/paper_files/paper/2016/file/98e6f17209029f4ae6dc9d88ec8eac2c-Paper.pdf) *NeurIPS*. 2016.
