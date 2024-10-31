@@ -143,6 +143,10 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ### Adaptive Gradient
 
+[A general framework of Riemannian adaptive optimization methods with a convergence analysis](https://arxiv.org/pdf/2409.00859) *Arxiv*. 2024.
+
+[Riemannian Adaptive Optimization Algorithm and its Application to Natural Language Processing](https://ieeexplore.ieee.org/abstract/document/9339934) *IEEE Trans. Cybern.* 2022.
+
 [Riemannian adaptive stochastic gradient algorithms on matrix manifolds](https://proceedings.mlr.press/v97/kasai19a/kasai19a.pdf) *ICML*. 2019.
 
 [Riemannian Adaptive Optimization Methods](https://openreview.net/forum?id=r1eiqi09K7) *ICLR*. 2019.
