@@ -71,7 +71,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Second-order Methods
 > Second-order methods on Riemannian manifolds.
 
+
 <a href="https://proceedings.neurips.cc/paper_files/paper/2018/file/3e9e39fed3b8369ed940f52cf300cf88-Paper.pdf" target="_blank">Inexact trust-region algorithms on Riemannian manifolds</a> *NeurIPS*. 2018.
+
+[Riemannian Trust Regions with Finite-Difference Hessian Approximations are Globally Convergent](https://link.springer.com/chapter/10.1007/978-3-319-25040-3_50) *GSI*. 2015.
+
 
 <a href="https://proceedings.neurips.cc/paper_files/paper/2011/file/37bc2f75bf1bcfe8450a1a41c200364c-Paper.pdf" target="_blank">RTRMC: A Riemannian trust-region method for low-rank matrix completion</a> *NeurIPS*. 2011.
 
