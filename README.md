@@ -7,7 +7,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 <details open>
   <summary><h2><b> Contents </b></h2></summary>
 
-  * [1. Books](#📘-books)
+  * [1. Books](#1-books)
   * [2. Papers](#2-papers)
     * [Acceleration](#acceleration)
     * [Quasi-Newton Methods](#quasi-newton-methods)
@@ -26,7 +26,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
    * [3. Software](#3-software) 
 </details>
 
-# 📘 Books
+# 1. Books
 
 1. [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n) *Cambridge University Press*. 2023
 
