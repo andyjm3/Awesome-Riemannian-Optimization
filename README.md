@@ -3,7 +3,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
    
 <details open>
-  <summary><h2><b>Contents</b></h2></summary>
+  <summary><h2><b> Contents </b></h2></summary>
 
   * [1. Books](#books)
   * [2. Papers](#papers)
