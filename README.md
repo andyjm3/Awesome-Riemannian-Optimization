@@ -90,6 +90,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Second-order Methods
 > Second-order methods on Riemannian manifolds.
 
+[Riemannian Trust Region Methods for SC1 Minimization](https://arxiv.org/pdf/2307.00490) *J. Sci. Comput.* 2024.
+
 [Adaptive trust-region method on Riemannian manifold](https://dl.acm.org/doi/abs/10.1007/s10915-023-02288-1) *J. Sci. Comput.* 2023.
 
 [Faster Riemannian Newton-type optimization by subsampling and cubic regularization](https://link.springer.com/article/10.1007/s10994-023-06321-0) *Mach. Learn.* 2023.
