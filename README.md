@@ -71,10 +71,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Generalization of Quasi-Newton methods: application to robust symmetric multisecant updates](https://proceedings.mlr.press/v130/scieur21a.html) *AISTATS*. 2021.
 
+[Structured Quasi-Newton Methods for Optimization with Orthogonality Constraints](https://epubs.siam.org/doi/abs/10.1137/18M121112X) *SIAM J. Sci. Comput.* 2019.
 
 [Riemannian stochastic quasi-Newton algorithm with variance reduction and its convergence analysis](https://proceedings.mlr.press/v84/kasai18a/kasai18a.pdf) *AISTATS*. 2018.
 
-
+[A Riemannian BFGS method without differentiated retraction for nonconvex optimization problems](https://epubs.siam.org/doi/abs/10.1137/17M1127582) *SIAM J. Optim.* 2018.
 
 [A Riemannian Limited-Memory BFGS Algorithm for Computing the Matrix Geometric Mean](https://www.sciencedirect.com/science/article/pii/S1877050916310250) *ICCS*. 2016.
 
@@ -82,7 +83,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [A Broyden Class of Quasi-Newton Methods for Riemannian Optimization](https://epubs.siam.org/doi/10.1137/140955483) *SIAM J. Optim.* 2015.
 
-[Riemannian BFGS Algorithm with Applications](https://link.springer.com/chapter/10.1007/978-3-642-12598-0_16) *Recent Advances in Optimization and its Applications in Engineering* 2010.
+[Riemannian BFGS Algorithm with Applications](https://link.springer.com/chapter/10.1007/978-3-642-12598-0_16) *Recent Advances in Optimization and its Applications in Engineering*. 2010.
 
 ## Second-order Methods
 > Second-order methods on Riemannian manifolds.
@@ -92,6 +93,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Adaptive regularization with cubics on manifolds](https://link.springer.com/article/10.1007/s10107-020-01505-1) *Math. Program.* 2021.
 
 [Inexact trust-region algorithms on Riemannian manifolds](https://proceedings.neurips.cc/paper_files/paper/2018/file/3e9e39fed3b8369ed940f52cf300cf88-Paper.pdf) *NeurIPS*. 2018.
+
+[A Riemannian symmetric rank-one trust-region method](https://link.springer.com/article/10.1007/s10107-014-0765-1) *Math. Program.* 2015.
 
 [Low-rank matrix completion via preconditioned optimization on the Grassmann manifold](https://www.sciencedirect.com/science/article/pii/S0024379515001342) *Linear Algebra Its Appl.* 2015.
 
@@ -105,6 +108,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 > Methods for stochastic and finite-sum optimization on Riemannian manifolds
 
 [Stochastic Modified Flows for Riemannian Stochastic Gradient Descent](https://arxiv.org/pdf/2402.03467) *Arxiv*. 2024.
+
+[Stochastic approximation on riemannian manifolds](https://link.springer.com/article/10.1007/s00245-019-09581-2) *Appl. Math. Optim.* 2021.
 
 [On Riemannian Stochastic Approximation Schemes with Fixed Step-Size](https://proceedings.mlr.press/v130/durmus21a/durmus21a.pdf) *AISTATS*. 2021.
 
