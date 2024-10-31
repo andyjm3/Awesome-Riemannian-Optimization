@@ -26,13 +26,15 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
  
 
 ## Acceleration
-> Accelerated gradient methods and analysis on Riemannian manifolds.
+> Accelerated gradient methods and analysis on Riemannian manifolds. 
 
 [Accelerated Gradient Dynamics on Riemannian Manifolds: Faster Rate and Trajectory Convergence](https://arxiv.org/pdf/2312.06366) *Arxiv*. 2023.
 
 [Riemannian accelerated gradient methods via extrapolation](https://proceedings.mlr.press/v206/han23a/han23a.pdf)  *AISTATS*. 2023.
 
 [Accelerated Riemannian Optimization: Handling Constraints with a Prox to Bound Geometric Penalties](https://proceedings.mlr.press/v195/martinez-rubio23a/martinez-rubio23a.pdf)  *COLT*. 2023.
+
+[An Accelerated First-Order Method for Non-convex Optimization on Manifolds](https://link.springer.com/article/10.1007/s10208-022-09573-9) *Found. Comput. Math.* 2022.
 
 [Understanding Riemannian acceleration via a proximal extragradient framework](https://proceedings.mlr.press/v178/jin22a/jin22a.pdf)  *COLT*. 2022.
 
@@ -67,6 +69,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ## Geodesic Convex Optimization
 > Convergence theory, analysis and lower bound for geodesic convex optimization on Riemannian manifolds
+
+[Curvature and complexity: Better lower bounds for geodesically convex optimization](https://proceedings.mlr.press/v195/criscitiello23a/criscitiello23a.pdf) *COLT*. 2023.
 
 [Geodesic convex optimization: Differentiation on manifolds, geodesics, and convexity](https://arxiv.org/pdf/1806.06373) *Arxiv*. 2018.
 
