@@ -79,6 +79,8 @@
 
 [Riemannian stochastic variance reduced gradient algorithm with retraction and vector transport](https://epubs.siam.org/doi/abs/10.1137/17M1116787) *SIAM J. Optim.* 2019.
 
+[R-SPIDER: A fast Riemannian stochastic optimization algorithm with curvature independent rate](https://arxiv.org/pdf/1811.04194) *Arxiv*. 2018.
+
 [Riemannian stochastic recursive gradient algorithm](https://proceedings.mlr.press/v80/kasai18a.html) *ICML*. 2018.
 
 [MASAGA: A Linearly-Convergent Stochastic First-Order Method for Optimization on Manifolds](https://link.springer.com/chapter/10.1007/978-3-030-10928-8_21) *ECML*. 2018.
