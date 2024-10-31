@@ -71,10 +71,18 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Generalization of Quasi-Newton methods: application to robust symmetric multisecant updates](https://proceedings.mlr.press/v130/scieur21a.html) *AISTATS*. 2021.
 
+
 [Riemannian stochastic quasi-Newton algorithm with variance reduction and its convergence analysis](https://proceedings.mlr.press/v84/kasai18a/kasai18a.pdf) *AISTATS*. 2018.
 
 
+
+[A Riemannian Limited-Memory BFGS Algorithm for Computing the Matrix Geometric Mean](https://www.sciencedirect.com/science/article/pii/S1877050916310250) *ICCS*. 2016.
+
+
+
 [A Broyden Class of Quasi-Newton Methods for Riemannian Optimization](https://epubs.siam.org/doi/10.1137/140955483) *SIAM J. Optim.* 2015.
+
+[Riemannian BFGS Algorithm with Applications](https://link.springer.com/chapter/10.1007/978-3-642-12598-0_16) *Recent Advances in Optimization and its Applications in Engineering* 2010.
 
 ## Second-order Methods
 > Second-order methods on Riemannian manifolds.
