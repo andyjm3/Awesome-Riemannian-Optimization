@@ -2,7 +2,7 @@
 This repo contains papers, books, tutorials and resources on Riemannian optimization. ⚡ This repo is currently under-developed. ⚡
 
    
-<details>
+<details open>
   <summary><h2><b>Contents</b></h2></summary>
 
   * [1. Books](#books)
