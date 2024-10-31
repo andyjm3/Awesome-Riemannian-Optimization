@@ -117,5 +117,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 # 🖥️ Software
 
-
+1. [ManOpt](https://github.com/NicolasBoumal/manopt)
+2. [Pymanopt](https://github.com/pymanopt/pymanopt)
+3. [Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl)
 
