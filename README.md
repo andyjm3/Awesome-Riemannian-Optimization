@@ -37,6 +37,7 @@
 
 [Towards Riemannian accelerated gradient methods](https://arxiv.org/pdf/1806.02812) *Arxiv*. 2018.
 
+
 ## Quasi-Newton Methods
 > Quasi-Newton methods on Riemannian manifolds.
 
@@ -50,6 +51,8 @@
 [Adaptive regularization with cubics on manifolds](https://link.springer.com/article/10.1007/s10107-020-01505-1) *Math. Program.* 2021.
 
 [Inexact trust-region algorithms on Riemannian manifolds](https://proceedings.neurips.cc/paper_files/paper/2018/file/3e9e39fed3b8369ed940f52cf300cf88-Paper.pdf) *NeurIPS*. 2018.
+
+[Low-rank matrix completion via preconditioned optimization on the Grassmann manifold](https://www.sciencedirect.com/science/article/pii/S0024379515001342) *Linear Algebra Its Appl.* 2015.
 
 [Riemannian Trust Regions with Finite-Difference Hessian Approximations are Globally Convergent](https://link.springer.com/chapter/10.1007/978-3-319-25040-3_50) *GSI*. 2015.
 
@@ -66,9 +69,13 @@
 
 ### Variance Reduction
 
+[MASAGA: A Linearly-Convergent Stochastic First-Order Method for Optimization on Manifolds](https://link.springer.com/chapter/10.1007/978-3-030-10928-8_21) *ECML*. 2018.
+
 [Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds](https://proceedings.neurips.cc/paper_files/paper/2016/file/98e6f17209029f4ae6dc9d88ec8eac2c-Paper.pdf) *NeurIPS*. 2016.
 
 ### Adaptive Gradient
+
+[Riemannian Adaptive Optimization Methods](https://openreview.net/forum?id=r1eiqi09K7) *ICLR*. 2019.
 
 ## Geodesic Convex and Nonconvex Optimization
 > Convergence theory, analysis and lower bound for geodesic convex and nonconvex optimization on Riemannian manifolds
