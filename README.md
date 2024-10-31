@@ -54,7 +54,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Scalable Riemannian Optimization
 > Tackling expensive retraction for scaling Riemannian optimization.
 
-### * Stiefel (Orthogonal) Manifold
+###  Stiefel (Orthogonal) Manifold
 
 [Solving Optimization Problems over the Stiefel Manifold by Smooth Exact Penalty Functions](https://global-sci.org/intro/article_detail.html?journal=undefined&article_id=23277)  *J. Comp. Math.* 2024.
 
@@ -68,11 +68,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Parallelizable algorithms for optimization problems with orthogonality constraints](https://epubs.siam.org/doi/10.1137/18M1221679) *SIAM J. Sci. Comput.* 2019.
 
-### * SPD Manifold
+###  SPD Manifold
 
 [Low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/pdf/2305.02041) *Arxiv*. 2023.
 
-### * General Manifold
+### General Manifold
 
 [Riemannian Coordinate Descent Algorithms on Matrix Manifolds](https://proceedings.mlr.press/v235/han24c.html) *ICML*. 2024.
 
