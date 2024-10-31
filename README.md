@@ -17,6 +17,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
       * [Variance Reduction](#variance-reduction)
       * [Adaptive Gradient](#adaptive-gradient)
     * [Bilevel and Min-Max Optimization](#bilevel-and-min-max-optimization)
+      * [Bilevel Optimization](#bilevel-optimization)
+      * [Min-max Optimization](#min-max-optimization)
     * [Scalable Riemannian Optimization](#scalable-riemannian-optimization)
       * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
       * [SPD Manifold](#spd-manifold)
