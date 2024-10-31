@@ -90,7 +90,9 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Second-order Methods
 > Second-order methods on Riemannian manifolds.
 
-[Faster Riemannian Newton-type optimization by subsampling and cubic regularization](https://link.springer.com/article/10.1007/s10994-023-06321-0). *Mach. Learn.* 2023.
+[Adaptive trust-region method on Riemannian manifold](https://dl.acm.org/doi/abs/10.1007/s10915-023-02288-1) *J. Sci. Comput.* 2023.
+
+[Faster Riemannian Newton-type optimization by subsampling and cubic regularization](https://link.springer.com/article/10.1007/s10994-023-06321-0) *Mach. Learn.* 2023.
 
 [Adaptive regularization with cubics on manifolds](https://link.springer.com/article/10.1007/s10107-020-01505-1) *Math. Program.* 2021.
 
@@ -232,3 +234,5 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 4. [ROPTLIB](https://github.com/whuang08/ROPTLIB): An object-oriented C++ library for optimization on Riemannian manifolds.
 5. [McTorch](https://github.com/mctorch/mctorch): A manifold optimization library for deep learning with PyTorch.
 6. [Geoopt](https://github.com/geoopt/geoopt): A manifold optimization and sampling toolbox with PyTorch.
+7. [Rieoptax](https://github.com/SaitejaUtpala/rieoptax): A Riemannian optimization toolbox in jax.
+
