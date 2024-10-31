@@ -65,6 +65,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Quasi-Newton Methods
 > Quasi-Newton methods on Riemannian manifolds.
 
+[Generalization of Quasi-Newton methods: application to robust symmetric multisecant updates](https://proceedings.mlr.press/v130/scieur21a.html) *AISTATS*. 2021.
+
 <a href="https://epubs.siam.org/doi/10.1137/140955483" target="_blank">A Broyden Class of Quasi-Newton Methods for Riemannian Optimization</a> *SIAM J. Optim.* 2015.
 
 
