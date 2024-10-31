@@ -6,9 +6,9 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 * [1. Books](#books)
 * [2. Papers](#papers)
-  * [2.1 Acceleration](#acceleration)
-  * [2.1 Stochastic Optimization](#stochastic-optimization)
-  * [2.2 Scalable Riemannian Optimization](#scalable-riemannian-optimization)
+  * [Acceleration](#acceleration)
+  * [Stochastic Optimization](#stochastic-optimization)
+  * [Scalable Riemannian Optimization](#scalable-riemannian-optimization)
      * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
      * [SPD Manifold](#spd-manifold)
      * [General Manifold](#general-manifold)
@@ -50,6 +50,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Towards Riemannian accelerated gradient methods](https://arxiv.org/pdf/1806.02812) *Arxiv*. 2018. 
 
+## Stochastic Optimization
+>
 
 ## Scalable Riemannian Optimization
 > Tackling expensive retraction for scaling Riemannian optimization.
