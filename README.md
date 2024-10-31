@@ -8,7 +8,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 * [2. Papers](#Papers)
   * [2.1 Acceleration](#Acceleration)
   * [2.1 Stochastic Optimization](#Stochastic-Optimization)
-  * [2.2 Efficient Riemannian Optimization](#Efficient-Riemannian-Optimization)
+  * [2.2 Scalable Riemannian Optimization](#Scalable-Riemannian-Optimization)
 
 # 📘 Books
 
@@ -19,6 +19,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 # 📜 Papers
 
 ## Acceleration
+> Accelerated gradient methods and analysis on Riemannian manifolds.
 
 [Accelerated Gradient Dynamics on Riemannian Manifolds: Faster Rate and Trajectory Convergence](https://arxiv.org/pdf/2312.06366). *Arxiv*. 2023.
 
@@ -45,6 +46,12 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Accelerated First-order Methods for Geodesically Convex Optimization on Riemannian Manifolds](https://proceedings.neurips.cc/paper_files/paper/2017/file/6ef80bb237adf4b6f77d0700e1255907-Paper.pdf). *NeurIPS*. 2017.
 
 [Towards Riemannian accelerated gradient methods](https://arxiv.org/pdf/1806.02812) *Arxiv*. 2018. 
+
+
+## Scalable Riemannian Optimization
+> Tackling expensive retraction for scaling Riemannian optimization.
+
+
 
 
 
