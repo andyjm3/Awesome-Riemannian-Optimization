@@ -85,12 +85,16 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Riemannian BFGS Algorithm with Applications](https://link.springer.com/chapter/10.1007/978-3-642-12598-0_16) *Recent Advances in Optimization and its Applications in Engineering*. 2010.
 
+
+
 ## Second-order Methods
 > Second-order methods on Riemannian manifolds.
 
 [Faster Riemannian Newton-type optimization by subsampling and cubic regularization](https://link.springer.com/article/10.1007/s10994-023-06321-0). *Mach. Learn.* 2023.
 
 [Adaptive regularization with cubics on manifolds](https://link.springer.com/article/10.1007/s10107-020-01505-1) *Math. Program.* 2021.
+
+[A Riemannian trust-region method for low-rank tensor completion](https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2175?casa_token=MKJnAMSdqSkAAAAA%3A3JFlcktsyK9aDrDX7xw6gpZ0VKETFlLS5RAgZj9i4chKkeqDajMFN5lNAFstLcTnQsOa0LHfQenBHXWB) *Numer. Linear Algebra Appl.* 2018.
 
 [Adaptive Quadratically Regularized Newton Method for Riemannian Optimization](https://epubs.siam.org/doi/abs/10.1137/17M1142478) *SIAM J. Matrix Anal. Appl.* 2018.
 
@@ -105,6 +109,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [RTRMC: A Riemannian trust-region method for low-rank matrix completion](https://proceedings.neurips.cc/paper_files/paper/2011/file/37bc2f75bf1bcfe8450a1a41c200364c-Paper.pdf) *NeurIPS*. 2011.
 
 [Trust-Region Methods on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10208-005-0179-9) *Found. Comput. Math.* 2006.
+
+
 
 ## Stochastic Optimization
 > Methods for stochastic and finite-sum optimization on Riemannian manifolds
