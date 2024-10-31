@@ -73,6 +73,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Second-order Methods
 > Second-order methods on Riemannian manifolds.
 
+[Adaptive regularization with cubics on manifolds](https://link.springer.com/article/10.1007/s10107-020-01505-1) *Math. Program.* 2021.
 
 <a href="https://proceedings.neurips.cc/paper_files/paper/2018/file/3e9e39fed3b8369ed940f52cf300cf88-Paper.pdf" target="_blank">Inexact trust-region algorithms on Riemannian manifolds</a> *NeurIPS*. 2018.
 
