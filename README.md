@@ -141,6 +141,15 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Bilevel and Min-max Optimization
 > Methods for solving bilevel and min-max optimization on manifolds
 
+### Bilevel Optimization
+
+
+### Min-max Optimization
+
+[Sion's minimax theorem in geodesic metric spaces and a Riemannian extragradient algorithm](https://epubs.siam.org/doi/full/10.1137/22M1505475) *SIAM J. Optim.* 2023.
+
+[Extragradient Type Methods for Riemannian Variational Inequality Problems](https://proceedings.mlr.press/v238/hu24c/hu24c.pdf) *AISTATS*. 2024.
+
 ## Scalable Riemannian Optimization
 > Tackling expensive retraction for scaling Riemannian optimization
 
