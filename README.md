@@ -92,6 +92,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Adaptive regularization with cubics on manifolds](https://link.springer.com/article/10.1007/s10107-020-01505-1) *Math. Program.* 2021.
 
+[Adaptive Quadratically Regularized Newton Method for Riemannian Optimization](https://epubs.siam.org/doi/abs/10.1137/17M1142478) *SIAM J. Matrix Anal. Appl.* 2018.
+
 [Inexact trust-region algorithms on Riemannian manifolds](https://proceedings.neurips.cc/paper_files/paper/2018/file/3e9e39fed3b8369ed940f52cf300cf88-Paper.pdf) *NeurIPS*. 2018.
 
 [A Riemannian symmetric rank-one trust-region method](https://link.springer.com/article/10.1007/s10107-014-0765-1) *Math. Program.* 2015.
