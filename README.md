@@ -1,3 +1,29 @@
+# A Handbook on Riemannian Optimization
+This repo contains papers, books, tutorials and resources on Riemannian optimization. 
+
+⚡ This repo is currently under-developed. ⚡
+
+   
+<details open>
+  <summary><h2><b> Contents </b></h2></summary>
+
+  * [1. Books](#books)
+  * [2. Papers](#papers)
+    * [Acceleration](#acceleration)
+    * [Quasi-Newton Methods](#quasi-newton-methods)
+    * [Second-Order Methods](#second-order-methods)
+    * [Geodesic Convex and Nonconvex Optimization](#geodesic-convex-and-nonconvex-optimization)
+    * [Stochastic Optimization](#stochastic-optimization)
+      * [Variance Reduction](#variance-reduction)
+      * [Adaptive Gradient](#adaptive-gradient)
+    * [Bilevel and Min-Max Optimization](#bilevel-and-min-max-optimization)
+    * [Scalable Riemannian Optimization](#scalable-riemannian-optimization)
+      * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
+      * [SPD Manifold](#spd-manifold)
+      * [General Manifold](#general-manifold)
+   * [3. Software](#software) 
+</details>
+
 # 📘 Books
 
 1. [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n) *Cambridge University Press*. 2023
