@@ -14,6 +14,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
       * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
       * [SPD Manifold](#spd-manifold)
       * [General Manifold](#general-manifold)
+   * [3. Software](#software) 
 </details>
 
 # 📘 Books
@@ -112,6 +113,9 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds](https://pubsonline.informs.org/doi/full/10.1287/moor.2022.1253?af=R) *Math. Oper. Res.* 2022
 
 [Dissolving Constraints for Riemannian Optimization](https://dl.acm.org/doi/abs/10.1287/moor.2023.1360) *Math. Oper. Res.* 2023.
+
+
+# 🖥️ Software
 
 
 
