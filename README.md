@@ -10,6 +10,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
     * [Acceleration](#acceleration)
     * [Geodesic Convex Optimization](#geodesic-convex-optimization)
     * [Stochastic Optimization](#stochastic-optimization)
+      * [Variance Reduction](#variance-reduction)
+      * [Adaptive Gradient](#adaptive-gradient)
     * [Scalable Riemannian Optimization](#scalable-riemannian-optimization)
       * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
       * [SPD Manifold](#spd-manifold)
@@ -63,9 +65,15 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Averaging Stochastic Gradient Descent on Riemannian Manifolds](https://proceedings.mlr.press/v75/tripuraneni18a/tripuraneni18a.pdf) *COLT*. 2018.
 
+[Stochastic gradient descent on Riemannian manifolds](https://ieeexplore.ieee.org/abstract/document/6487381) *IEEE Trans. Autom. Control.* 2013.
+
+
+### Variance Reduction
+
 [Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds](https://proceedings.neurips.cc/paper_files/paper/2016/file/98e6f17209029f4ae6dc9d88ec8eac2c-Paper.pdf) *NeurIPS*. 2016.
 
-[Stochastic gradient descent on Riemannian manifolds](https://ieeexplore.ieee.org/abstract/document/6487381) *IEEE Trans. Autom. Control.* 2013.
+### Adaptive Gradient
+
 
 
 ## Geodesic Convex Optimization
@@ -117,7 +125,10 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 # 🖥️ Software
 
-1. [ManOpt](https://github.com/NicolasBoumal/manopt)
-2. [Pymanopt](https://github.com/pymanopt/pymanopt)
-3. [Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl)
+1. [ManOpt](https://github.com/NicolasBoumal/manopt): A Matlab toolbox for optimization on manifolds.
+2. [Pymanopt](https://github.com/pymanopt/pymanopt): A Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
+3. [Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl): A Julia toolbox for optimization on manifolds.
+4. [ROPTLIB](https://github.com/whuang08/ROPTLIB): An object-oriented C++ library for optimization on Riemannian manifolds.
+5. [McTorch](https://github.com/mctorch/mctorch): A manifold optimization library for deep learning with PyTorch.
+6. [Geoopt](https://github.com/geoopt/geoopt): A manifold optimization and sampling toolbox with Pytorch.
 
