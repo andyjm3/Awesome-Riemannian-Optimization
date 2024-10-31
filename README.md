@@ -183,6 +183,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ### Bilevel Optimization
 
+[A framework for bilevel optimization on Riemannian manifolds](https://arxiv.org/pdf/2402.03883) *NeurIPS*. 2024.
+
 [Riemannian Bilevel Optimization](https://arxiv.org/pdf/2402.02019) *Arxiv*. 2024.
 
 ### Min-max Optimization
