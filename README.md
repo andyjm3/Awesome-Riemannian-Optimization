@@ -63,6 +63,8 @@
 ## Stochastic Optimization
 > Methods for stochastic and finite-sum optimization on Riemannian manifolds
 
+[On Riemannian Stochastic Approximation Schemes with Fixed Step-Size](https://proceedings.mlr.press/v130/durmus21a/durmus21a.pdf) *AISTATS*. 2021.
+
 [Averaging Stochastic Gradient Descent on Riemannian Manifolds](https://proceedings.mlr.press/v75/tripuraneni18a/tripuraneni18a.pdf) *COLT*. 2018.
 
 [Stochastic gradient descent on Riemannian manifolds](https://ieeexplore.ieee.org/abstract/document/6487381) *IEEE Trans. Autom. Control.* 2013.
