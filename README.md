@@ -91,6 +91,8 @@
 
 ### Adaptive Gradient
 
+[Riemannian adaptive stochastic gradient algorithms on matrix manifolds](https://proceedings.mlr.press/v97/kasai19a/kasai19a.pdf) *ICML*. 2019.
+
 [Riemannian Adaptive Optimization Methods](https://openreview.net/forum?id=r1eiqi09K7) *ICLR*. 2019.
 
 ## Geodesic Convex and Nonconvex Optimization
