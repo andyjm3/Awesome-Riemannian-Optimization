@@ -51,7 +51,12 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Towards Riemannian accelerated gradient methods](https://arxiv.org/pdf/1806.02812) *Arxiv*. 2018. 
 
 ## Stochastic Optimization
->
+> Methods for stochastic and finite-sum optimization on Riemannian manifolds
+> 
+[Averaging Stochastic Gradient Descent on Riemannian Manifolds](https://proceedings.mlr.press/v75/tripuraneni18a/tripuraneni18a.pdf) *COLT*. 2018.
+
+[Stochastic gradient descent on Riemannian manifolds](https://ieeexplore.ieee.org/abstract/document/6487381) *IEEE Trans. Autom. Control.* 2013.
+
 
 ## Scalable Riemannian Optimization
 > Tackling expensive retraction for scaling Riemannian optimization.
@@ -69,6 +74,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [A Class of Smooth Exact Penalty Function Methods for Optimization Problems with Orthogonality Constraints](https://www.tandfonline.com/doi/full/10.1080/10556788.2020.1852236) *Optim. Methods Softw.* 2020.
 
 [Parallelizable algorithms for optimization problems with orthogonality constraints](https://epubs.siam.org/doi/10.1137/18M1221679) *SIAM J. Sci. Comput.* 2019.
+
+[Coordinate-descent for learning orthogonal matrices through Givens rotations](https://proceedings.mlr.press/v32/shalit14.pdf) *ICML*. 2014.
 
 ###  SPD Manifold
 
