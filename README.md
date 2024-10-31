@@ -7,6 +7,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 * [1. Books](#books)
 * [2. Papers](#papers)
   * [Acceleration](#acceleration)
+  * [Geodesic Convex Optimization](#geodesic-convex-optimization)
   * [Stochastic Optimization](#stochastic-optimization)
   * [Scalable Riemannian Optimization](#scalable-riemannian-optimization)
      * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
@@ -20,6 +21,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 2. [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/) *Princeton University Press*. 2008.
 
 # 📜 Papers
+ 
 
 ## Acceleration
 > Accelerated gradient methods and analysis on Riemannian manifolds.
@@ -52,10 +54,22 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ## Stochastic Optimization
 > Methods for stochastic and finite-sum optimization on Riemannian manifolds
-> 
+
+
 [Averaging Stochastic Gradient Descent on Riemannian Manifolds](https://proceedings.mlr.press/v75/tripuraneni18a/tripuraneni18a.pdf) *COLT*. 2018.
 
+[Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds](https://proceedings.neurips.cc/paper_files/paper/2016/file/98e6f17209029f4ae6dc9d88ec8eac2c-Paper.pdf) *NeurIPS*. 2016.
+
 [Stochastic gradient descent on Riemannian manifolds](https://ieeexplore.ieee.org/abstract/document/6487381) *IEEE Trans. Autom. Control.* 2013.
+
+
+## Geodesic Convex Optimization
+> Convergence theory, analysis and lower bound for geodesic convex optimization on Riemannian manifolds
+
+[Geodesic convex optimization: Differentiation on manifolds, geodesics, and convexity](https://arxiv.org/pdf/1806.06373) *Arxiv*. 2018.
+
+[First-order Methods for Geodesically Convex Optimization](https://proceedings.mlr.press/v49/zhang16b.pdf) *COLT*. 2016.
+
 
 
 ## Scalable Riemannian Optimization
