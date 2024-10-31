@@ -72,6 +72,10 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Curvature and complexity: Better lower bounds for geodesically convex optimization](https://proceedings.mlr.press/v195/criscitiello23a/criscitiello23a.pdf) *COLT*. 2023.
 
+[Negative curvature obstructs acceleration for strongly geodesically convex optimization, even with exact first-order oracles](https://proceedings.mlr.press/v178/criscitiello22a/criscitiello22a.pdf) *COLT*. 2022.
+
+[A No-go Theorem for Robust Acceleration in the Hyperbolic Plane](https://openreview.net/pdf?id=twz1QqzU0Hp) *NeurIPS*. 2021.
+
 [Geodesic convex optimization: Differentiation on manifolds, geodesics, and convexity](https://arxiv.org/pdf/1806.06373) *Arxiv*. 2018.
 
 [First-order Methods for Geodesically Convex Optimization](https://proceedings.mlr.press/v49/zhang16b.pdf) *COLT*. 2016.
