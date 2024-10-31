@@ -71,6 +71,9 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Generalization of Quasi-Newton methods: application to robust symmetric multisecant updates](https://proceedings.mlr.press/v130/scieur21a.html) *AISTATS*. 2021.
 
+[Riemannian stochastic quasi-Newton algorithm with variance reduction and its convergence analysis](https://proceedings.mlr.press/v84/kasai18a/kasai18a.pdf) *AISTATS*. 2018.
+
+
 [A Broyden Class of Quasi-Newton Methods for Riemannian Optimization](https://epubs.siam.org/doi/10.1137/140955483) *SIAM J. Optim.* 2015.
 
 ## Second-order Methods
@@ -99,7 +102,9 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ### Variance Reduction
 
-[Riemannian SVRG Using Barzilai–Borwein Method as Second-Order Approximation for Federated Learning](https://www.mdpi.com/2073-8994/16/9/1101) *Symmetry* 2024.
+[Streamlining in the Riemannian Realm: Efficient Riemannian Optimization with Loopless Variance Reduction](https://arxiv.org/pdf/2403.06677) *Arxiv*. 2024.
+
+[Riemannian SVRG Using Barzilai–Borwein Method as Second-Order Approximation for Federated Learning](https://www.mdpi.com/2073-8994/16/9/1101) *Symmetry*. 2024.
 
 [Improved Variance Reduction Methods for Riemannian Non-Convex Optimization](https://ieeexplore.ieee.org/document/9536452) *IEEE Trans. Pattern Anal. Mach. Intell.* 2022.
 
@@ -127,6 +132,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ## Geodesic Convex and Nonconvex Optimization
 > Convergence theory, analysis and lower bound for geodesic convex and nonconvex optimization on Riemannian manifolds
+
+[Geodesic Convexity of the Symmetric Eigenvalue Problem and Convergence of Steepest Descent](https://link.springer.com/article/10.1007/s10957-024-02538-8) *J. Optim. Theory Appl.* 2024.
 
 [Curvature and complexity: Better lower bounds for geodesically convex optimization](https://proceedings.mlr.press/v195/criscitiello23a/criscitiello23a.pdf) *COLT*. 2023.
 
