@@ -1,5 +1,7 @@
 # A Handbook on Riemannian Optimization
-This repo contains papers, books, tutorials and resources on Riemannian optimization. ⚡ This repo is currently under-developed. ⚡
+This repo contains papers, books, tutorials and resources on Riemannian optimization. 
+
+⚡ This repo is currently under-developed. ⚡
 
    
 <details open>
