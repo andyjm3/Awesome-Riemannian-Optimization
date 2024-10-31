@@ -14,6 +14,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
     * [Stochastic Optimization](#stochastic-optimization)
       * [Variance Reduction](#variance-reduction)
       * [Adaptive Gradient](#adaptive-gradient)
+    * [Bilevel and Min-Max Optimization](#bilevel-and-min-max-optimization)
     * [Scalable Riemannian Optimization](#scalable-riemannian-optimization)
       * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
       * [SPD Manifold](#spd-manifold)
@@ -92,9 +93,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [First-order Methods for Geodesically Convex Optimization](https://proceedings.mlr.press/v49/zhang16b.pdf) *COLT*. 2016.
 
 
+## Bilevel and Min-max Optimization
+> Methods for solving bilevel and min-max optimization on manifolds
 
 ## Scalable Riemannian Optimization
-> Tackling expensive retraction for scaling Riemannian optimization.
+> Tackling expensive retraction for scaling Riemannian optimization
 
 ###  Stiefel (Orthogonal) Manifold
 
