@@ -236,6 +236,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [A framework for bilevel optimization on Riemannian manifolds](https://arxiv.org/pdf/2402.03883) *NeurIPS*. 2024.
 
+[Riemannian Bilevel Optimization](https://arxiv.org/pdf/2405.15816) *Arxiv*. 2024.
+
 [Riemannian Bilevel Optimization](https://arxiv.org/pdf/2402.02019) *Arxiv*. 2024.
 
 [Semivectorial bilevel optimization on Riemannian manifolds](https://dl.acm.org/doi/abs/10.1007/s10957-015-0789-6) *J. Optim. Theory Appl.* 2015.
