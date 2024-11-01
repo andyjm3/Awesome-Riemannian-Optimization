@@ -244,11 +244,30 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ### Min-max Optimization
 
+[A Riemannian Alternating Descent Ascent Algorithmic Framework for Nonconvex-Linear Minimax Problems on Riemannian Manifolds](https://arxiv.org/pdf/2409.19588) *Arxiv*. 2024.
+
+[Local convergence of min-max algorithms to differentiable equilibrium on Riemannian manifold](https://arxiv.org/pdf/2405.13392) *Arxiv*. 2024.
+
+[Extragradient Type Methods for Riemannian Variational Inequality Problems](https://proceedings.mlr.press/v238/hu24c/hu24c.pdf) *AISTATS*. 2024.
+
+[Accelerated methods for riemannian min-max optimization ensuring bounded geometric penalties](https://arxiv.org/pdf/2305.16186) *Arxiv*. 2023.
+
+[Nonconvex-nonconcave min-max optimization on Riemannian manifolds](https://openreview.net/forum?id=EDVIHPZhFo) *TMLR*. 2023.
+
+[Riemannian optimistic algorithms](https://arxiv.org/pdf/2308.16004) *Arxiv*. 2023.
+
+[Curvature-independent last-iterate convergence for games on riemannian manifolds](https://arxiv.org/pdf/2306.16617) *Arxiv*. 2023.
+
+[Decentralized riemannian algorithm for nonconvex minimax problems](https://ojs.aaai.org/index.php/AAAI/article/view/26234) *AAAI*. 2023.
+
+[Riemannian Hamiltonian methods for min-max optimization on manifolds](https://epubs.siam.org/doi/full/10.1137/22M1492684) *SIAM J. Optim.* 2023.
+
 [Sion's minimax theorem in geodesic metric spaces and a Riemannian extragradient algorithm](https://epubs.siam.org/doi/full/10.1137/22M1505475) *SIAM J. Optim.* 2023.
+
+[Gradient Descent Ascent for Minimax Problems on Riemannian Manifolds](https://ieeexplore.ieee.org/abstract/document/10005847)  *IEEE Trans. Pattern Anal. Mach. Intell.* 2023.
 
 [First-Order Algorithms for Min-Max Optimization in Geodesic Metric Spaces](https://proceedings.neurips.cc/paper_files/paper/2022/file/2ad9a1a6ffac3dd72cc1df96019eca01-Paper-Conference.pdf) *NeurIPS*. 2022.
 
-[Extragradient Type Methods for Riemannian Variational Inequality Problems](https://proceedings.mlr.press/v238/hu24c/hu24c.pdf) *AISTATS*. 2024.
 
 ## Scalable Riemannian Optimization
 > Tackling expensive retraction for scaling Riemannian optimization
