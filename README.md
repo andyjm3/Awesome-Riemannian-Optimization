@@ -39,6 +39,19 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 > Accelerated gradient methods and analysis on Riemannian manifolds. 
 
 [Accelerated Gradient Dynamics on Riemannian Manifolds: Faster Rate and Trajectory Convergence](https://arxiv.org/pdf/2312.06366) *Arxiv*. 2023.
+<details>
+    <summary>BibTeX</summary>
+    ```bibtex
+    @article{grad_dynamics_2023,
+      title={Accelerated Gradient Dynamics on Riemannian Manifolds: Faster Rate and Trajectory Convergence},
+      author={...},
+      journal={Arxiv},
+      year={2023},
+      eprint={2312.06366},
+      archivePrefix={arXiv}
+    }
+    ```
+  </details>
 
 [Riemannian accelerated gradient methods via extrapolation](https://proceedings.mlr.press/v206/han23a/han23a.pdf) *AISTATS*. 2023.
 
