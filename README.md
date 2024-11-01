@@ -16,6 +16,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
     * [Stochastic Optimization](#stochastic-optimization)
       * [Variance Reduction](#variance-reduction)
       * [Adaptive Gradient](#adaptive-gradient)
+    * [Nonsmooth Optimization](#nonsmooth-optimization)
     * [Bilevel and Min-Max Optimization](#bilevel-and-min-max-optimization)
       * [Bilevel Optimization](#bilevel-optimization)
       * [Min-max Optimization](#min-max-optimization)
@@ -29,7 +30,6 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 # 1. Books
 
 1. [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n) *Cambridge University Press*. 2023
-
 2. [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/) *Princeton University Press*. 2008.
 
 # 2. Papers
@@ -182,6 +182,19 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 
 
+## Nonsmooth Optimization
+> Methods for solving nonsmooth optimization on manifolds
+
+[Riemannian proximal gradient methods](https://link.springer.com/article/10.1007/s10107-021-01632-3) *Math. Program.* 2022.
+
+[A Collection of Nonsmooth Riemannian Optimization Problems](https://link.springer.com/chapter/10.1007/978-3-030-11370-4_1) *Nonsmooth Optim. Appl.* 2017
+
+[A Riemannian Gradient Sampling Algorithm for Nonsmooth Optimization on Manifolds](https://epubs.siam.org/doi/abs/10.1137/16M1069298)  *SIAM J. Optim.* 2017.
+
+## Constrained Optimization
+> Methods for solving optimization problems on manifolds with constraints
+
+[Simple algorithms for optimization on Riemannian manifolds with constraints](https://link.springer.com/article/10.1007/s00245-019-09564-3) *Appl. Math. Optim.* 2020.
 
 ## Bilevel and Min-max Optimization
 > Methods for solving bilevel and min-max optimization on manifolds
