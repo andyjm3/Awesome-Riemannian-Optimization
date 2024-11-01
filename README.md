@@ -12,6 +12,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
     * [Acceleration](#acceleration)
     * [Quasi-Newton Methods](#quasi-newton-methods)
     * [Second-Order Methods](#second-order-methods)
+    * [Zeroth-Order Optimization](#zeroth-order-optimization)
     * [Geodesic Convex and Nonconvex Optimization](#geodesic-convex-and-nonconvex-optimization)
     * [Stochastic Optimization](#stochastic-optimization)
       * [Variance Reduction](#variance-reduction)
@@ -138,6 +139,17 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [RTRMC: A Riemannian trust-region method for low-rank matrix completion](https://proceedings.neurips.cc/paper_files/paper/2011/file/37bc2f75bf1bcfe8450a1a41c200364c-Paper.pdf) *NeurIPS*. 2011.
 
 [Trust-Region Methods on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10208-005-0179-9) *Found. Comput. Math.* 2006.
+
+
+
+## Zeroth-Order Optimization
+> Derivative-free and zeroth-order optimization on manifolds
+
+[Riemannian Accelerated Zeroth-order Algorithm: Improved Robustness and Lower Query Complexity](https://proceedings.mlr.press/v235/he24h.html) *ICML*. 2024.
+
+[Zeroth-order Riemannian averaging stochastic approximation algorithms](https://epubs.siam.org/doi/full/10.1137/23M1605405?casa_token=GLUmnHCFPmcAAAAA%3AtqbK_tVkMUKRsj35eGERgQf4iTK04yGccBARgFVCjHFvBCFP6JKxCWOD-z9xRRnDGsV6SG9xbYCQ) *SIAM J. Optim.* 2024.
+
+[Stochastic Zeroth-Order Riemannian Derivative Estimation and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1302?casa_token=-PpmKJFuuF8AAAAA:VDxcY2m0VIJtxaSoDuz5eN8FzXCnzTJ-19O5Cfjnr8YzFtoZKWRX_wXmeOos-WaGkXZM3trAIdyZLQ) *Math. Oper. Res.* 2022.
 
 
 
