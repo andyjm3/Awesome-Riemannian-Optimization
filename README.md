@@ -58,6 +58,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Momentum Improves Optimization on Riemannian Manifolds](https://proceedings.mlr.press/v130/alimisis21a/alimisis21a.pdf) *AISTATS*. 2021.
 
+[A Nesterov-type Acceleration with Adaptive Localized Cayley Parametrization for Optimization over the Stiefel Manifold](https://ieeexplore.ieee.org/abstract/document/9287609) *EUSIPCO* 2020.
+
 [From Nesterov’s Estimate Sequence to Riemannian Acceleration](https://proceedings.mlr.press/v125/ahn20a/ahn20a.pdf) *COLT*. 2020. 
 
 [A continuous-time perspective for modeling acceleration in Riemannian optimization](https://proceedings.mlr.press/v108/alimisis20a/alimisis20a.pdf) *AISTATS*. 2020.
@@ -70,9 +72,15 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Quasi-Newton Methods
 > Quasi-Newton methods on Riemannian manifolds.
 
+[A restricted memory quasi-Newton bundle method for nonsmooth optimization on Riemannian manifolds](https://arxiv.org/pdf/2402.18308) *Arxiv*. 2024.
+
+[Modified Memoryless Spectral-Scaling Broyden Family on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-024-02449-8) *J. Optim. Theory Appl.* 2024.
+
 [Memoryless Quasi-Newton Methods Based on the Spectral-Scaling Broyden Family for Riemannian Optimization](https://link.springer.com/article/10.1007/s10957-023-02183-7) *J. Optim. Theory Appl.* 2023.
 
 [Generalization of Quasi-Newton methods: application to robust symmetric multisecant updates](https://proceedings.mlr.press/v130/scieur21a.html) *AISTATS*. 2021.
+
+[Vector Transport Free Riemannian LBFGS for Optimization on Symmetric Positive Definite Matrix Manifolds](https://proceedings.mlr.press/v157/godaz21a.html) *ACML*. 2021.
 
 [Structured Quasi-Newton Methods for Optimization with Orthogonality Constraints](https://epubs.siam.org/doi/abs/10.1137/18M121112X) *SIAM J. Sci. Comput.* 2019.
 
@@ -93,6 +101,12 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Second-order Methods
 > Second-order methods on Riemannian manifolds.
 
+[Sub-sampled adaptive trust region method on Riemannian manifolds](https://onlinelibrary.wiley.com/doi/full/10.1002/nla.2557) *Numer. Linear Algebra Appl.* 2024.
+
+[Inexact Adaptive Cubic Regularization Algorithms on Riemannian Manifolds and Application](https://arxiv.org/pdf/2405.02588) *Arxiv*. 2024.
+
+[A Riemannian Dimension-Reduced Second-Order Method with Application in Sensor Network Localization](https://epubs.siam.org/doi/full/10.1137/23M1567229) *SIAM J. Sci. Comput.* 2024.
+
 [Riemannian Trust Region Methods for SC1 Minimization](https://arxiv.org/pdf/2307.00490) *J. Sci. Comput.* 2024.
 
 [Adaptive trust-region method on Riemannian manifold](https://dl.acm.org/doi/abs/10.1007/s10915-023-02288-1) *J. Sci. Comput.* 2023.
@@ -103,6 +117,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Adaptive regularization with cubics on manifolds](https://link.springer.com/article/10.1007/s10107-020-01505-1) *Math. Program.* 2021.
 
+[A Nonmonotone Trust Region Method for Unconstrained Optimization Problems on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-020-01796-6) *J. Optim. Theory Appl.* 2021.
+
 [Damped Newton’s method on Riemannian manifolds](https://link.springer.com/article/10.1007/s10898-020-00885-0) *J. Glob. Optim.* 2020.
 
 [A Riemannian trust-region method for low-rank tensor completion](https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2175?casa_token=MKJnAMSdqSkAAAAA%3A3JFlcktsyK9aDrDX7xw6gpZ0VKETFlLS5RAgZj9i4chKkeqDajMFN5lNAFstLcTnQsOa0LHfQenBHXWB) *Numer. Linear Algebra Appl.* 2018.
@@ -110,6 +126,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Adaptive Quadratically Regularized Newton Method for Riemannian Optimization](https://epubs.siam.org/doi/abs/10.1137/17M1142478) *SIAM J. Matrix Anal. Appl.* 2018.
 
 [Inexact trust-region algorithms on Riemannian manifolds](https://proceedings.neurips.cc/paper_files/paper/2018/file/3e9e39fed3b8369ed940f52cf300cf88-Paper.pdf) *NeurIPS*. 2018.
+
+[On the Superlinear Convergence of Newton’s Method on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-017-1107-2) *J. Optim. Theory Appl.* 2017.
 
 [A Riemannian symmetric rank-one trust-region method](https://link.springer.com/article/10.1007/s10107-014-0765-1) *Math. Program.* 2015.
 
@@ -191,6 +209,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ## Nonsmooth Optimization
 > Methods for solving nonsmooth optimization on manifolds
+
+[Nonsmooth nonconvex optimization on Riemannian manifolds via bundle trust region algorithm](https://link.springer.com/article/10.1007/s10589-024-00569-5) *Comput. Optim. Appl.* 2024.
 
 [An inexact Riemannian proximal gradient method](https://link.springer.com/article/10.1007/s10589-023-00451-w) *Comput. Optim. Appl.* 2023.
 
