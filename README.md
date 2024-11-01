@@ -17,6 +17,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
       * [Variance Reduction](#variance-reduction)
       * [Adaptive Gradient](#adaptive-gradient)
     * [Nonsmooth Optimization](#nonsmooth-optimization)
+    * [Constrained Optimization](#constrained-optimization)
     * [Bilevel and Min-Max Optimization](#bilevel-and-min-max-optimization)
       * [Bilevel Optimization](#bilevel-optimization)
       * [Min-max Optimization](#min-max-optimization)
@@ -69,6 +70,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Quasi-Newton Methods
 > Quasi-Newton methods on Riemannian manifolds.
 
+[Memoryless Quasi-Newton Methods Based on the Spectral-Scaling Broyden Family for Riemannian Optimization](https://link.springer.com/article/10.1007/s10957-023-02183-7) *J. Optim. Theory Appl.* 2023.
+
 [Generalization of Quasi-Newton methods: application to robust symmetric multisecant updates](https://proceedings.mlr.press/v130/scieur21a.html) *AISTATS*. 2021.
 
 [Structured Quasi-Newton Methods for Optimization with Orthogonality Constraints](https://epubs.siam.org/doi/abs/10.1137/18M121112X) *SIAM J. Sci. Comput.* 2019.
@@ -96,7 +99,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Faster Riemannian Newton-type optimization by subsampling and cubic regularization](https://link.springer.com/article/10.1007/s10994-023-06321-0) *Mach. Learn.* 2023.
 
+[A Limited-Memory Riemannian Symmetric Rank-One Trust-Region Method with a Restart Strategy](https://link.springer.com/article/10.1007/s10915-022-01962-0) *J. Sci. Comput.* 2022.
+
 [Adaptive regularization with cubics on manifolds](https://link.springer.com/article/10.1007/s10107-020-01505-1) *Math. Program.* 2021.
+
+[Damped Newton’s method on Riemannian manifolds](https://link.springer.com/article/10.1007/s10898-020-00885-0) *J. Glob. Optim.* 2020.
 
 [A Riemannian trust-region method for low-rank tensor completion](https://onlinelibrary.wiley.com/doi/abs/10.1002/nla.2175?casa_token=MKJnAMSdqSkAAAAA%3A3JFlcktsyK9aDrDX7xw6gpZ0VKETFlLS5RAgZj9i4chKkeqDajMFN5lNAFstLcTnQsOa0LHfQenBHXWB) *Numer. Linear Algebra Appl.* 2018.
 
@@ -185,6 +192,12 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Nonsmooth Optimization
 > Methods for solving nonsmooth optimization on manifolds
 
+[An inexact Riemannian proximal gradient method](https://link.springer.com/article/10.1007/s10589-023-00451-w) *Comput. Optim. Appl.* 2023.
+
+[A manifold inexact augmented Lagrangian method for nonsmooth optimization on Riemannian submanifolds in Euclidean space](https://academic.oup.com/imajna/article/43/3/1653/6590238?login=true) *IMA J. Numer. Anal.* 2023.
+
+[A proximal bundle algorithm for nonsmooth optimization on Riemannian manifolds](https://academic.oup.com/imajna/article/43/1/293/6454153?login=true) *IMA J. Numer. Anal.* 2023.
+
 [Riemannian proximal gradient methods](https://link.springer.com/article/10.1007/s10107-021-01632-3) *Math. Program.* 2022.
 
 [A Collection of Nonsmooth Riemannian Optimization Problems](https://link.springer.com/chapter/10.1007/978-3-030-11370-4_1) *Nonsmooth Optim. Appl.* 2017
@@ -247,6 +260,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Coordinate Descent Without Coordinates: Tangent Subspace Descent on Riemannian Manifolds](https://pubsonline.informs.org/doi/full/10.1287/moor.2022.1253?af=R) *Math. Oper. Res.* 2022.
 
 [Trivializations for Gradient-Based Optimization on Manifolds](https://proceedings.neurips.cc/paper_files/paper/2019/file/1b33d16fc562464579b7199ca3114982-Paper.pdf) *NeurIPS*. 2019.
+
+
 
 # 3. Software
 
