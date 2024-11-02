@@ -10,6 +10,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
   * [1. Books](#1-books)
   * [2. Papers](#2-papers)
     * [Acceleration](#acceleration)
+    * [Conjugate Gradient Methods](#conjugate-gradient-methods)
     * [Quasi-Newton Methods](#quasi-newton-methods)
     * [Second-Order Methods](#second-order-methods)
     * [Zeroth-Order Optimization](#zeroth-order-optimization)
@@ -73,7 +74,21 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Conjugate Gradient Methods
 > Riemannian conjugate gradient methods
 
+[Practical gradient and conjugate gradient methods on flag manifolds](https://link.springer.com/article/10.1007/s10589-024-00568-6) *Comput. Optim. Appl.* 2024.
+
+[Nonlinear conjugate gradient method for vector optimization on Riemannian manifolds with retraction and vector transport](https://www.sciencedirect.com/science/article/pii/S0096300324004624) *Appl. Math. Comput.*. 2024.
+
 [Decentralized Riemannian Conjugate Gradient Method on the Stiefel Manifold](https://openreview.net/forum?id=PQbFUMKLFp) *ICLR*. 2024.
+
+[Two efficient nonlinear conjugate gradient methods for Riemannian manifolds](https://link.springer.com/article/10.1007/s40314-024-02920-2) *Comput. Optim. Appl.* 2024.
+
+[An improved Riemannian conjugate gradient method and its application to robust matrix completion](https://link.springer.com/article/10.1007/s11075-023-01688-6) *Numer. Algorithms.* 2024.
+
+[Conjugate gradient methods for optimization problems on symplectic Stiefel manifold](https://ieeexplore.ieee.org/abstract/document/10159009) *IEEE Control Syst. Lett.* 2023.
+
+[A hybrid Riemannian conjugate gradient method for nonconvex optimization problems](https://link.springer.com/article/10.1007/s12190-022-01772-5) *J. Appl. Math.* 2023.
+
+[A class of spectral conjugate gradient methods for Riemannian optimization](https://link.springer.com/article/10.1007/s11075-022-01495-5) *Numer. Algorithms.* 2023.
 
 [Global convergence of Hager–Zhang type Riemannian conjugate gradient method](https://www.sciencedirect.com/science/article/pii/S0096300322007536) *Appl. Math. Comput.* 2023.
 
@@ -81,13 +96,23 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Sufficient descent Riemannian conjugate gradient methods](https://link.springer.com/article/10.1007/s10957-021-01874-3) *J. Optim. Theory Appl.*  2021.
 
+[Riemannian Modified Polak--Ribière--Polyak Conjugate Gradient Order Reduced Model by Tensor Techniques](https://epubs.siam.org/doi/abs/10.1137/19M1257147) *SIAM J. Matrix Anal. Appl.* 2020.
+
 [Hybrid Riemannian conjugate gradient methods with global convergence properties](https://link.springer.com/article/10.1007/s10589-020-00224-9) *Comput. Optim. Appl.* 2020.
 
 [Riemannian conjugate gradient methods with inverse retraction](https://link.springer.com/article/10.1007/s10589-020-00219-6) *Comput. Optim. Appl.* 2020.
 
+[A Riemannian Fletcher--Reeves Conjugate Gradient Method for Doubly Stochastic Inverse Eigenvalue Problems](https://epubs.siam.org/doi/abs/10.1137/15M1023051) *SIAM J. Matrix Anal. Appl.* 2016.
+
 [A Dai–Yuan-type Riemannian conjugate gradient method with the weak Wolfe conditions](https://link.springer.com/article/10.1007/s10589-015-9801-1) *Comput. Optim. Appl.* 2016.
 
 [A new, globally convergent Riemannian conjugate gradient method](https://www.tandfonline.com/doi/full/10.1080/02331934.2013.836650) *Optim.* 2013.
+
+[Conjugate gradient on Grassmann manifolds for robust subspace estimation](https://www.sciencedirect.com/science/article/pii/S0262885611000989) *Image Vis. Comput.* 2012.
+
+[Conjugate gradient algorithm for optimization under unitary matrix constraint](https://www.sciencedirect.com/science/article/pii/S0165168409000814)  *Signal Process.* 2009.
+
+
 
 
 ## Quasi-Newton Methods
@@ -96,6 +121,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [A restricted memory quasi-Newton bundle method for nonsmooth optimization on Riemannian manifolds](https://arxiv.org/pdf/2402.18308) *Arxiv*. 2024.
 
 [Modified Memoryless Spectral-Scaling Broyden Family on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-024-02449-8) *J. Optim. Theory Appl.* 2024.
+
+[A Riemannian subspace BFGS trust region method](https://link.springer.com/article/10.1007/s11590-022-01964-9) *Optim. Lett.* 2023.
 
 [Memoryless Quasi-Newton Methods Based on the Spectral-Scaling Broyden Family for Riemannian Optimization](https://link.springer.com/article/10.1007/s10957-023-02183-7) *J. Optim. Theory Appl.* 2023.
 
