@@ -225,6 +225,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Nonsmooth nonconvex optimization on Riemannian manifolds via bundle trust region algorithm](https://link.springer.com/article/10.1007/s10589-024-00569-5) *Comput. Optim. Appl.* 2024.
 
+[A Riemannian ADMM](https://arxiv.org/pdf/2211.02163) *Arxiv*. 2023.
+
 [An inexact Riemannian proximal gradient method](https://link.springer.com/article/10.1007/s10589-023-00451-w) *Comput. Optim. Appl.* 2023.
 
 [A manifold inexact augmented Lagrangian method for nonsmooth optimization on Riemannian submanifolds in Euclidean space](https://academic.oup.com/imajna/article/43/3/1653/6590238?login=true) *IMA J. Numer. Anal.* 2023.
