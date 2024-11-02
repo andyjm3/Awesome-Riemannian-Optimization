@@ -26,6 +26,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
       * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
       * [SPD Manifold](#spd-manifold)
       * [General Manifold](#general-manifold)
+   * [Differentially Private Optimization](#differentially-private-optimization)
    * [3. Software](#3-software) 
 </details>
 
@@ -314,7 +315,12 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Trivializations for Gradient-Based Optimization on Manifolds](https://proceedings.neurips.cc/paper_files/paper/2019/file/1b33d16fc562464579b7199ca3114982-Paper.pdf) *NeurIPS*. 2019.
 
+## Differentially Private Optimization
+> Riemannian optimization that preserves privacy in data
 
+[Differentially private Riemannian optimization](https://link.springer.com/article/10.1007/s10994-023-06508-5) *Mach. Learn.* 2024.
+
+[Improved Differentially Private Riemannian Optimization: Fast Sampling and Variance Reduction](https://openreview.net/pdf?id=paguBNtqiO) *TMLR*. 2023.
 
 # 3. Software
 
