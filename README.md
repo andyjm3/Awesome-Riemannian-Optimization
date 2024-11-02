@@ -70,6 +70,25 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Towards Riemannian accelerated gradient methods](https://arxiv.org/pdf/1806.02812) *Arxiv*. 2018.
 
+## Conjugate Gradient Methods
+> Riemannian conjugate gradient methods
+
+[Decentralized Riemannian Conjugate Gradient Method on the Stiefel Manifold](https://openreview.net/forum?id=PQbFUMKLFp) *ICLR*. 2024.
+
+[Global convergence of Hager–Zhang type Riemannian conjugate gradient method](https://www.sciencedirect.com/science/article/pii/S0096300322007536) *Appl. Math. Comput.* 2023.
+
+[Riemannian Conjugate Gradient Methods: General Framework and Specific Algorithms with Convergence Analyses](https://epubs.siam.org/doi/abs/10.1137/21M1464178) *SIAM J. Optim.* 2022.
+
+[Sufficient descent Riemannian conjugate gradient methods](https://link.springer.com/article/10.1007/s10957-021-01874-3) *J. Optim. Theory Appl.*  2021.
+
+[Hybrid Riemannian conjugate gradient methods with global convergence properties](https://link.springer.com/article/10.1007/s10589-020-00224-9) *Comput. Optim. Appl.* 2020.
+
+[Riemannian conjugate gradient methods with inverse retraction](https://link.springer.com/article/10.1007/s10589-020-00219-6) *Comput. Optim. Appl.* 2020.
+
+[A Dai–Yuan-type Riemannian conjugate gradient method with the weak Wolfe conditions](https://link.springer.com/article/10.1007/s10589-015-9801-1) *Comput. Optim. Appl.* 2016.
+
+[A new, globally convergent Riemannian conjugate gradient method](https://www.tandfonline.com/doi/full/10.1080/02331934.2013.836650) *Optim.* 2013.
+
 
 ## Quasi-Newton Methods
 > Quasi-Newton methods on Riemannian manifolds.
