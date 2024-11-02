@@ -223,6 +223,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Nonsmooth Optimization
 > Methods for solving nonsmooth optimization on manifolds
 
+[A Riemannian Proximal Newton-CG Method](https://arxiv.org/pdf/2405.08365) *Arxiv*. 2024.
+
 [Nonsmooth nonconvex optimization on Riemannian manifolds via bundle trust region algorithm](https://link.springer.com/article/10.1007/s10589-024-00569-5) *Comput. Optim. Appl.* 2024.
 
 [A Riemannian ADMM](https://arxiv.org/pdf/2211.02163) *Arxiv*. 2023.
