@@ -289,6 +289,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Riemannian proximal gradient methods](https://link.springer.com/article/10.1007/s10107-021-01632-3) *Math. Program.* 2022.
 
+[Weakly Convex Optimization over Stiefel Manifold Using Riemannian Subgradient-Type Methods](https://epubs.siam.org/doi/abs/10.1137/20M1321000) *SIAM J. Optim.* 2021.
+
 [A Collection of Nonsmooth Riemannian Optimization Problems](https://link.springer.com/chapter/10.1007/978-3-030-11370-4_1) *Nonsmooth Optim. Appl.* 2017
 
 [A Riemannian Gradient Sampling Algorithm for Nonsmooth Optimization on Manifolds](https://epubs.siam.org/doi/abs/10.1137/16M1069298)  *SIAM J. Optim.* 2017.
