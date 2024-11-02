@@ -26,7 +26,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
       * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
       * [SPD Manifold](#spd-manifold)
       * [General Manifold](#general-manifold)
-   * [Differentially Private Optimization](#differentially-private-optimization)
+    * [Differentially Private Optimization](#differentially-private-optimization)
    * [3. Software](#3-software) 
 </details>
 
