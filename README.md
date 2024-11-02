@@ -47,6 +47,9 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Accelerated Riemannian Optimization: Handling Constraints with a Prox to Bound Geometric Penalties](https://proceedings.mlr.press/v195/martinez-rubio23a/martinez-rubio23a.pdf) *COLT*. 2023.
 
+[Riemannian Anderson Mixing Methods for Minimizing C2-Functions on Riemannian Manifolds](https://arxiv.org/pdf/2309.04091) *Arxiv*. 2023.
+
+
 [An Accelerated First-Order Method for Non-convex Optimization on Manifolds](https://link.springer.com/article/10.1007/s10208-022-09573-9) *Found. Comput. Math.* 2022.
 
 [Understanding Riemannian acceleration via a proximal extragradient framework](https://proceedings.mlr.press/v178/jin22a/jin22a.pdf) *COLT*. 2022.
@@ -83,6 +86,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Two efficient nonlinear conjugate gradient methods for Riemannian manifolds](https://link.springer.com/article/10.1007/s40314-024-02920-2) *Comput. Optim. Appl.* 2024.
 
 [An improved Riemannian conjugate gradient method and its application to robust matrix completion](https://link.springer.com/article/10.1007/s11075-023-01688-6) *Numer. Algorithms.* 2024.
+
 
 [Conjugate gradient methods for optimization problems on symplectic Stiefel manifold](https://ieeexplore.ieee.org/abstract/document/10159009) *IEEE Control Syst. Lett.* 2023.
 
