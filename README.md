@@ -298,6 +298,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Constrained Optimization
 > Methods for solving optimization problems on manifolds with constraints
 
+[Interior-point methods on manifolds: theory and applications](https://ieeexplore.ieee.org/abstract/document/10353110?casa_token=_waujfZAdQgAAAAA:E5r0Eog9QD5aoZC5FwWLPM-PVrq5A7lgnSbTAJQKnG_lpsz1wcvN-R90A6vwy4GnZpHvtbx8csmE) *FOCS*. 2023.
+
 [Riemannian Interior Point Methods for Constrained Optimization on Manifolds](https://link.springer.com/article/10.1007/s10957-024-02403-8)  *J. Optim. Theory Appl.* 2024.
 
 [Simple algorithms for optimization on Riemannian manifolds with constraints](https://link.springer.com/article/10.1007/s00245-019-09564-3) *Appl. Math. Optim.* 2020.
