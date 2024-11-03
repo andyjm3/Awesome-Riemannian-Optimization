@@ -413,7 +413,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 # 3. Software
 
 1. [ManOpt](https://github.com/NicolasBoumal/manopt): A Matlab toolbox for optimization on manifolds.
-2. [Pymanopt](https://github.com/pymanopt/pymanopt): A Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation.
+2. [Pymanopt](https://github.com/pymanopt/pymanopt): A Python toolbox for optimization on Riemannian manifolds.
 3. [Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl): A Julia toolbox for optimization on manifolds.
 4. [ROPTLIB](https://github.com/whuang08/ROPTLIB): An object-oriented C++ library for optimization on Riemannian manifolds.
 5. [McTorch](https://github.com/mctorch/mctorch): A manifold optimization library for deep learning with PyTorch.
