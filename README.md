@@ -7,7 +7,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 <details open>
   <summary><h2><b> Contents </b></h2></summary>
 
-- [A Handbook on Riemannian Optimization](#a-handbook-on-riemannian-optimization)
+[A Handbook on Riemannian Optimization](#a-handbook-on-riemannian-optimization)
 - [1. Books](#1-books)
 - [2. Papers](#2-papers)
   - [Acceleration](#acceleration)
