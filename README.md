@@ -298,13 +298,17 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Constrained Optimization
 > Methods for solving optimization problems on manifolds with constraints
 
+[Structured Regularization for Constrained Optimization on the SPD Manifold](https://arxiv.org/pdf/2410.09660) *Arxiv*. 2024.
+
 [Constraint Qualifications and Strong Global Convergence Properties of an Augmented Lagrangian Method on Riemannian Manifolds](https://epubs.siam.org/doi/full/10.1137/23M1582382?casa_token=x_-MW4p3aRQAAAAA%3Ae7JGmWcuZYdDpnSb-qr3odKUxCid5TySpZ_TPwMd03hPROjmLdy2yTNcrYApBHrwOXTnl2wOqjKK) *SIAM J. Optim.* 2024.
 
 [Riemannian Interior Point Methods for Constrained Optimization on Manifolds](https://link.springer.com/article/10.1007/s10957-024-02403-8)  *J. Optim. Theory Appl.* 2024.
 
+[Riemannian Optimization via Frank-Wolfe Methods](https://link.springer.com/article/10.1007/s10107-022-01840-5) *Math. Program.* 2023.
 
 [Interior-point methods on manifolds: theory and applications](https://ieeexplore.ieee.org/abstract/document/10353110?casa_token=_waujfZAdQgAAAAA:E5r0Eog9QD5aoZC5FwWLPM-PVrq5A7lgnSbTAJQKnG_lpsz1wcvN-R90A6vwy4GnZpHvtbx8csmE) *FOCS*. 2023.
 
+[Projection-free nonconvex stochastic optimization on Riemannian manifolds](https://academic.oup.com/imajna/article/42/4/3241/6374894?login=true) *IMA J. Numer. Anal.* 2022.
 
 [Simple algorithms for optimization on Riemannian manifolds with constraints](https://link.springer.com/article/10.1007/s00245-019-09564-3) *Appl. Math. Optim.* 2020.
 
