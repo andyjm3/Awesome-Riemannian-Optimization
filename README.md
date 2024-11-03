@@ -136,7 +136,6 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Vector Transport Free Riemannian LBFGS for Optimization on Symmetric Positive Definite Matrix Manifolds](https://proceedings.mlr.press/v157/godaz21a.html) *ACML*. 2021.
 
-[Adaptive regularization with cubics on manifolds](https://link.springer.com/article/10.1007/s10107-020-01505-1) *Math. Prog.* 2020
 
 [Structured Quasi-Newton Methods for Optimization with Orthogonality Constraints](https://epubs.siam.org/doi/abs/10.1137/18M121112X) *SIAM J. Sci. Comput.* 2019.
 
@@ -150,7 +149,6 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Riemannian BFGS Algorithm with Applications](https://link.springer.com/chapter/10.1007/978-3-642-12598-0_16) *Recent Advances in Optimization and its Applications in Engineering*. 2010.
 
-[Trust-Region Methods on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10208-005-0179-9) *FoCM* 2007
 
 ## Second-order Methods
 > Second-order methods on Riemannian manifolds.
