@@ -1,45 +1,48 @@
 # A Handbook on Riemannian Optimization
-This repo contains papers, books, tutorials and resources on Riemannian optimization. 
+This repo contains papers, books, tutorials and resources on Riemannian optimization.
 
 ⚡ This repo is currently under-developed. Any suggestions are welcome!⚡
 
-   
+
 <details open>
   <summary><h2><b> Contents </b></h2></summary>
 
-  * [1. Books](#1-books)
-  * [2. Papers](#2-papers)
-    * [Acceleration](#acceleration)
-    * [Conjugate Gradient Methods](#conjugate-gradient-methods)
-    * [Quasi-Newton Methods](#quasi-newton-methods)
-    * [Second-Order Methods](#second-order-methods)
-    * [Zeroth-Order Optimization](#zeroth-order-optimization)
-    * [Geodesic Convex and Nonconvex Optimization](#geodesic-convex-and-nonconvex-optimization)
-    * [Stochastic Optimization](#stochastic-optimization)
-      * [Variance Reduction](#variance-reduction)
-      * [Adaptive Gradient](#adaptive-gradient)
-    * [Nonsmooth Optimization](#nonsmooth-optimization)
-    * [Constrained Optimization](#constrained-optimization)
-    * [Bilevel and Min-Max Optimization](#bilevel-and-min-max-optimization)
-      * [Bilevel Optimization](#bilevel-optimization)
-      * [Min-max Optimization](#min-max-optimization)
-    * [Scalable Riemannian Optimization](#scalable-riemannian-optimization)
-      * [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
-      * [SPD Manifold](#spd-manifold)
-      * [General Manifold](#general-manifold)
-    * [Differentially Private Optimization](#differentially-private-optimization)
-   * [3. Software](#3-software) 
+- [A Handbook on Riemannian Optimization](#a-handbook-on-riemannian-optimization)
+- [1. Books](#1-books)
+- [2. Papers](#2-papers)
+  - [Acceleration](#acceleration)
+  - [Conjugate Gradient Methods](#conjugate-gradient-methods)
+  - [Quasi-Newton Methods](#quasi-newton-methods)
+  - [Second-order Methods](#second-order-methods)
+  - [Zeroth-Order Optimization](#zeroth-order-optimization)
+  - [Stochastic Optimization](#stochastic-optimization)
+    - [Variance Reduction](#variance-reduction)
+    - [Adaptive Gradient](#adaptive-gradient)
+  - [Geodesic Convex and Nonconvex Optimization](#geodesic-convex-and-nonconvex-optimization)
+  - [Nonsmooth Optimization](#nonsmooth-optimization)
+  - [Constrained Optimization](#constrained-optimization)
+  - [Bilevel and Min-max Optimization](#bilevel-and-min-max-optimization)
+    - [Bilevel Optimization](#bilevel-optimization)
+    - [Min-max Optimization](#min-max-optimization)
+  - [Scalable Riemannian Optimization](#scalable-riemannian-optimization)
+    - [Stiefel (Orthogonal) Manifold](#stiefel-orthogonal-manifold)
+    - [SPD Manifold](#spd-manifold)
+    - [General Manifold](#general-manifold)
+  - [Differentially Private Optimization](#differentially-private-optimization)
+- [3. Software](#3-software)
 </details>
 
 # 1. Books
 
 1. [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n) *Cambridge University Press*. 2023
-2. [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/) *Princeton University Press*. 2008.
+2. [Convex Analysis and Optimization in Hadamard Spaces](https://www.degruyter.com/document/doi/10.1515/9783110361629/html) *De Gruyter* 2014
+3. [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/) *Princeton University Press*. 2008
+4. [Convex Functions and Optimization Methods on Riemannian Manifolds](https://link.springer.com/book/10.1007/978-94-015-8390-9) *Kluwer Academic Publishers Group* 1994
 
 # 2. Papers
 
 ## Acceleration
-> Accelerated gradient methods and analysis on Riemannian manifolds. 
+> Accelerated gradient methods and analysis on Riemannian manifolds.
 
 [Accelerated Gradient Dynamics on Riemannian Manifolds: Faster Rate and Trajectory Convergence](https://arxiv.org/pdf/2312.06366) *Arxiv*. 2023.
 
@@ -66,7 +69,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [A Nesterov-type Acceleration with Adaptive Localized Cayley Parametrization for Optimization over the Stiefel Manifold](https://ieeexplore.ieee.org/abstract/document/9287609) *EUSIPCO* 2020.
 
-[From Nesterov’s Estimate Sequence to Riemannian Acceleration](https://proceedings.mlr.press/v125/ahn20a/ahn20a.pdf) *COLT*. 2020. 
+[From Nesterov’s Estimate Sequence to Riemannian Acceleration](https://proceedings.mlr.press/v125/ahn20a/ahn20a.pdf) *COLT*. 2020.
 
 [A continuous-time perspective for modeling acceleration in Riemannian optimization](https://proceedings.mlr.press/v108/alimisis20a/alimisis20a.pdf) *AISTATS*. 2020.
 
@@ -134,6 +137,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Vector Transport Free Riemannian LBFGS for Optimization on Symmetric Positive Definite Matrix Manifolds](https://proceedings.mlr.press/v157/godaz21a.html) *ACML*. 2021.
 
+[Adaptive regularization with cubics on manifolds](https://link.springer.com/article/10.1007/s10107-020-01505-1) *Math. Prog.* 2020
+
 [Structured Quasi-Newton Methods for Optimization with Orthogonality Constraints](https://epubs.siam.org/doi/abs/10.1137/18M121112X) *SIAM J. Sci. Comput.* 2019.
 
 [Riemannian stochastic quasi-Newton algorithm with variance reduction and its convergence analysis](https://proceedings.mlr.press/v84/kasai18a/kasai18a.pdf) *AISTATS*. 2018.
@@ -142,13 +147,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [A Riemannian Limited-Memory BFGS Algorithm for Computing the Matrix Geometric Mean](https://www.sciencedirect.com/science/article/pii/S1877050916310250) *ICCS*. 2016.
 
-
-
 [A Broyden Class of Quasi-Newton Methods for Riemannian Optimization](https://epubs.siam.org/doi/10.1137/140955483) *SIAM J. Optim.* 2015.
 
 [Riemannian BFGS Algorithm with Applications](https://link.springer.com/chapter/10.1007/978-3-642-12598-0_16) *Recent Advances in Optimization and its Applications in Engineering*. 2010.
 
-
+[Trust-Region Methods on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10208-005-0179-9) *FoCM* 2007
 
 ## Second-order Methods
 > Second-order methods on Riemannian manifolds.
@@ -287,6 +290,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [A proximal bundle algorithm for nonsmooth optimization on Riemannian manifolds](https://academic.oup.com/imajna/article/43/1/293/6454153?login=true) *IMA J. Numer. Anal.* 2023.
 
+[Fenchel duality theory and a primal-dual algorithm on Riemannian manifolds](https://link.springer.com/article/10.1007/s10208-020-09486-5), *FoCM* 2021
+
 [Riemannian proximal gradient methods](https://link.springer.com/article/10.1007/s10107-021-01632-3) *Math. Program.* 2022.
 
 [Weakly Convex Optimization over Stiefel Manifold Using Riemannian Subgradient-Type Methods](https://epubs.siam.org/doi/abs/10.1137/20M1321000) *SIAM J. Optim.* 2021.
@@ -294,6 +299,14 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [A Collection of Nonsmooth Riemannian Optimization Problems](https://link.springer.com/chapter/10.1007/978-3-030-11370-4_1) *Nonsmooth Optim. Appl.* 2017
 
 [A Riemannian Gradient Sampling Algorithm for Nonsmooth Optimization on Manifolds](https://epubs.siam.org/doi/abs/10.1137/16M1069298)  *SIAM J. Optim.* 2017.
+
+[A parallel Douglas Rachford algorithm for minimizing ROF-like functionals on images with values in symmetric Hadamard manifolds](https://epubs.siam.org/doi/10.1137/15M1052858) *SIAM J. Imag. Sci* 2016
+
+[Computing medians and means in Hadamard spaces](https://epubs.siam.org/doi/10.1137/140953393) *SIAM J. Optim.* 2014
+
+[Proximal point algorithm on Riemannian manifolds](https://www.tandfonline.com/doi/abs/10.1080/02331930290019413) *Optimization' 2002
+
+[Subgradient algorithm on Riemannian manifolds](https://link.springer.com/article/10.1023/A:1022675100677) *J. OPTIM. THEORY APPL.* 1998
 
 ## Constrained Optimization
 > Methods for solving optimization problems on manifolds with constraints
@@ -312,7 +325,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Projection-free nonconvex stochastic optimization on Riemannian manifolds](https://academic.oup.com/imajna/article/42/4/3241/6374894?login=true) *IMA J. Numer. Anal.* 2022.
 
+[Intrinsic formulation of KKT conditions and constraint qualifications on smooth manifolds](https://epubs.siam.org/doi/10.1137/18M1181602) *SIAM J. Optim.* 2021
+
 [Simple algorithms for optimization on Riemannian manifolds with constraints](https://link.springer.com/article/10.1007/s00245-019-09564-3) *Appl. Math. Optim.* 2020.
+
+
 
 ## Bilevel and Min-max Optimization
 > Methods for solving bilevel and min-max optimization on manifolds
@@ -403,4 +420,3 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 5. [McTorch](https://github.com/mctorch/mctorch): A manifold optimization library for deep learning with PyTorch.
 6. [Geoopt](https://github.com/geoopt/geoopt): A manifold optimization and sampling toolbox with PyTorch.
 7. [Rieoptax](https://github.com/SaitejaUtpala/rieoptax): A Riemannian optimization toolbox in jax.
-
