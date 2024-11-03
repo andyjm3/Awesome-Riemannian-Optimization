@@ -287,7 +287,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [A proximal bundle algorithm for nonsmooth optimization on Riemannian manifolds](https://academic.oup.com/imajna/article/43/1/293/6454153?login=true) *IMA J. Numer. Anal.* 2023.
 
-[Fenchel duality theory and a primal-dual algorithm on Riemannian manifolds](https://link.springer.com/article/10.1007/s10208-020-09486-5), *FoCM* 2021
+[Fenchel duality theory and a primal-dual algorithm on Riemannian manifolds](https://link.springer.com/article/10.1007/s10208-020-09486-5), *Found. Comput. Math.* 2021
 
 [Riemannian proximal gradient methods](https://link.springer.com/article/10.1007/s10107-021-01632-3) *Math. Program.* 2022.
 
@@ -301,9 +301,9 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Computing medians and means in Hadamard spaces](https://epubs.siam.org/doi/10.1137/140953393) *SIAM J. Optim.* 2014
 
-[Proximal point algorithm on Riemannian manifolds](https://www.tandfonline.com/doi/abs/10.1080/02331930290019413) *Optimization' 2002
+[Proximal point algorithm on Riemannian manifolds](https://www.tandfonline.com/doi/abs/10.1080/02331930290019413) *Optimization* 2002
 
-[Subgradient algorithm on Riemannian manifolds](https://link.springer.com/article/10.1023/A:1022675100677) *J. OPTIM. THEORY APPL.* 1998
+[Subgradient algorithm on Riemannian manifolds](https://link.springer.com/article/10.1023/A:1022675100677) *J. Optim. Theory Appl.* 1998
 
 ## Constrained Optimization
 > Methods for solving optimization problems on manifolds with constraints
