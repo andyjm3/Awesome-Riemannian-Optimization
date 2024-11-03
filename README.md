@@ -143,7 +143,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [A Riemannian BFGS method without differentiated retraction for nonconvex optimization problems](https://epubs.siam.org/doi/abs/10.1137/17M1127582) *SIAM J. Optim.* 2018.
 
+
 [A Riemannian Limited-Memory BFGS Algorithm for Computing the Matrix Geometric Mean](https://www.sciencedirect.com/science/article/pii/S1877050916310250) *ICCS*. 2016.
+
+[A Riemannian BFGS method for nonconvex optimization problems](https://link.springer.com/chapter/10.1007/978-3-319-39929-4_60) *ENUMATH*. 2015.
+
 
 [A Broyden Class of Quasi-Newton Methods for Riemannian Optimization](https://epubs.siam.org/doi/10.1137/140955483) *SIAM J. Optim.* 2015.
 
