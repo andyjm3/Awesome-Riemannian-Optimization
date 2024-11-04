@@ -444,6 +444,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Decentralized Riemannian Conjugate Gradient Method on the Stiefel Manifold](https://openreview.net/forum?id=PQbFUMKLFp) *ICLR*. 2024.
 
+[On the Local Linear Rate of Consensus on the Stiefel Manifold](https://ieeexplore.ieee.org/abstract/document/10310108) *IEEE Trans. Autom. Control.*. 2023.
+
 [Riemannian Consensus for Manifolds With Bounded Curvature](https://ieeexplore.ieee.org/abstract/document/6332485) *IEEE Trans. Autom. Control.*. 2023.
 
 [Incremental Aggregated Riemannian Gradient Method for Distributed PCA](https://proceedings.mlr.press/v206/wang23j.html) *AISTATS*. 2023.
