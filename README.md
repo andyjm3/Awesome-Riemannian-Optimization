@@ -28,6 +28,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
     - [SPD Manifold](#spd-manifold)
     - [General Manifold](#general-manifold)
   - [Differentially Private Optimization](#differentially-private-optimization)
+  - [Federated and Distributed Optimization](#federated-and-distributed-optimization)
 - [3. Software](#3-software)
 </details>
 
@@ -413,6 +414,22 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Differentially private Riemannian optimization](https://link.springer.com/article/10.1007/s10994-023-06508-5) *Mach. Learn.* 2024.
 
 [Improved Differentially Private Riemannian Optimization: Fast Sampling and Variance Reduction](https://openreview.net/pdf?id=paguBNtqiO) *TMLR*. 2023.
+
+
+## Federated and Distributed Optimization
+> Optimization on manifolds spanning multiple deviced or agents.
+
+[Riemannian SVRG Using Barzilai–Borwein Method as Second-Order Approximation for Federated Learning](https://www.mdpi.com/2073-8994/16/9/1101) *Symmetry*. 2024.
+
+[Decentralized Online Riemannian Optimization with Dynamic Environments](https://arxiv.org/pdf/2410.05128) *Arxiv*. 2024.
+
+[Riemannian Federated Learning via Averaging Gradient Stream](https://arxiv.org/pdf/2409.07223) *Arxiv*. 2024.
+
+[Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data](https://arxiv.org/pdf/2406.08465) *Arxiv*. 2024.
+
+[Federated learning on Riemannian manifolds with differential privacy](https://arxiv.org/pdf/2404.10029) *Arxiv*. 2024.
+
+[Federated Learning on Riemannian Manifolds](https://web.p.ebscohost.com/abstract?site=ehost&scope=site&jrnl=25627775&AN=169957689&h=CTH4I4fXWYGdfdGaGZDlGwlkn7XM50pPHPogPGDfjOktl384pm8GO4OpNIaOQHQe%2bpLOB7Vfmx7oJvM0dUtTeQ%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d25627775%26AN%3d169957689) *Appl. Set-Valued Anal. Optim.* 2023.
 
 # 3. Software
 
