@@ -429,9 +429,17 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Federated learning on Riemannian manifolds with differential privacy](https://arxiv.org/pdf/2404.10029) *Arxiv*. 2024.
 
+[Decentralized Riemannian Conjugate Gradient Method on the Stiefel Manifold](https://openreview.net/forum?id=PQbFUMKLFp) *ICLR*. 2024.
+
 [Federated Learning on Riemannian Manifolds](https://web.p.ebscohost.com/abstract?site=ehost&scope=site&jrnl=25627775&AN=169957689&h=CTH4I4fXWYGdfdGaGZDlGwlkn7XM50pPHPogPGDfjOktl384pm8GO4OpNIaOQHQe%2bpLOB7Vfmx7oJvM0dUtTeQ%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d25627775%26AN%3d169957689) *Appl. Set-Valued Anal. Optim.* 2023.
 
+[Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds](https://arxiv.org/pdf/2304.08241) *Arxiv*. 2023.
+
 [Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation](https://ieeexplore.ieee.org/abstract/document/9981256) *IROS*. 2022.
+
+[Decentralized Riemannian gradient descent on the Stiefel manifold](https://proceedings.mlr.press/v139/chen21g.html) *ICML*. 2021.
+
+[Communication-Efficient Distributed PCA by Riemannian Optimization](https://proceedings.mlr.press/v119/huang20e.html) *ICML*. 2020.
 
 # 3. Software
 
