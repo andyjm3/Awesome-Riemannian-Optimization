@@ -411,6 +411,9 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Differentially Private Optimization
 > Riemannian optimization that preserves privacy in data
 
+[Federated learning on Riemannian manifolds with differential privacy](https://arxiv.org/pdf/2404.10029) *Arxiv*. 2024.
+
+
 [Differentially private Riemannian optimization](https://link.springer.com/article/10.1007/s10994-023-06508-5) *Mach. Learn.* 2024.
 
 [Improved Differentially Private Riemannian Optimization: Fast Sampling and Variance Reduction](https://openreview.net/pdf?id=paguBNtqiO) *TMLR*. 2023.
