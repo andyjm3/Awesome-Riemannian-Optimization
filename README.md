@@ -312,7 +312,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Computing medians and means in Hadamard spaces](https://epubs.siam.org/doi/10.1137/140953393) *SIAM J. Optim.* 2014
 
-[Proximal point algorithm on Riemannian manifolds](https://www.tandfonline.com/doi/abs/10.1080/02331930290019413) *Optimization* 2002
+[Proximal point algorithm on Riemannian manifolds](https://www.tandfonline.com/doi/abs/10.1080/02331930290019413) *Optimization*. 2002
 
 [Subgradient algorithm on Riemannian manifolds](https://link.springer.com/article/10.1023/A:1022675100677) *J. Optim. Theory Appl.* 1998
 
