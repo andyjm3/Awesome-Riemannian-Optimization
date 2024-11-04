@@ -422,11 +422,17 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Federated and Distributed Optimization
 > Optimization on manifolds spanning multiple deviced or agents.
 
+[A Double Tracking Method for Optimization with Decentralized Generalized Orthogonality Constraints](https://arxiv.org/pdf/2409.04998) *Arxiv*. 2024.
+
 [Riemannian Diffusion Adaptation over Graphs with Application to Online Distributed PCA](https://ieeexplore.ieee.org/abstract/document/10446975) *ICASSP*. 2024.
 
 [Distributed Riemannian Stochastic Gradient Tracking Algorithm on the Stiefel Manifold](https://arxiv.org/pdf/2405.16900) *Arxiv*. 2024.
 
 [Riemannian SVRG Using Barzilai–Borwein Method as Second-Order Approximation for Federated Learning](https://www.mdpi.com/2073-8994/16/9/1101) *Symmetry*. 2024.
+
+[A Decentralized Proximal Gradient Tracking Algorithm for Composite Optimization on Riemannian Manifolds](https://arxiv.org/pdf/2401.11573) *Arxiv*. 2024.
+
+[Global Convergence of Decentralized Retraction-Free Optimization on the Stiefel Manifold](https://arxiv.org/pdf/2405.11590) *Arxiv*. 2024.
 
 [Decentralized Online Riemannian Optimization with Dynamic Environments](https://arxiv.org/pdf/2410.05128) *Arxiv*. 2024.
 
@@ -446,7 +452,11 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Federated Learning on Riemannian Manifolds](https://web.p.ebscohost.com/abstract?site=ehost&scope=site&jrnl=25627775&AN=169957689&h=CTH4I4fXWYGdfdGaGZDlGwlkn7XM50pPHPogPGDfjOktl384pm8GO4OpNIaOQHQe%2bpLOB7Vfmx7oJvM0dUtTeQ%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d25627775%26AN%3d169957689) *Appl. Set-Valued Anal. Optim.* 2023.
 
+[Decentralized weakly convex optimization over the Stiefel manifold](https://arxiv.org/pdf/2303.17779) *Arxiv*. 2023.
+
 [Decentralized projected Riemannian gradient method for smooth optimization on compact submanifolds](https://arxiv.org/pdf/2304.08241) *Arxiv*. 2023.
+
+[Decentralized optimization over the Stiefel manifold by an approximate augmented Lagrangian function](https://ieeexplore.ieee.org/abstract/document/9798866) *IEEE Trans. Signal Process.* 2022.
 
 [Distributed Riemannian Optimization with Lazy Communication for Collaborative Geometric Estimation](https://ieeexplore.ieee.org/abstract/document/9981256) *IROS*. 2022.
 
