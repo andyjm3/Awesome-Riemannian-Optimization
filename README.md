@@ -292,9 +292,13 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [A proximal bundle algorithm for nonsmooth optimization on Riemannian manifolds](https://academic.oup.com/imajna/article/43/1/293/6454153?login=true) *IMA J. Numer. Anal.* 2023.
 
-[Fenchel duality theory and a primal-dual algorithm on Riemannian manifolds](https://link.springer.com/article/10.1007/s10208-020-09486-5), *Found. Comput. Math.* 2021
+[A Riemannian Smoothing Steepest Descent Method for Non-Lipschitz Optimization on Embedded Submanifolds of Rn](https://pubsonline.informs.org/doi/10.1287/moor.2022.0286) *Math. Oper. Res.*. 2022.
+
 
 [Riemannian proximal gradient methods](https://link.springer.com/article/10.1007/s10107-021-01632-3) *Math. Program.* 2022.
+
+[Fenchel duality theory and a primal-dual algorithm on Riemannian manifolds](https://link.springer.com/article/10.1007/s10208-020-09486-5), *Found. Comput. Math.* 2021
+
 
 [Weakly Convex Optimization over Stiefel Manifold Using Riemannian Subgradient-Type Methods](https://epubs.siam.org/doi/abs/10.1137/20M1321000) *SIAM J. Optim.* 2021.
 
