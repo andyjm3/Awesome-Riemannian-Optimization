@@ -419,6 +419,10 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Federated and Distributed Optimization
 > Optimization on manifolds spanning multiple deviced or agents.
 
+[Riemannian Diffusion Adaptation over Graphs with Application to Online Distributed PCA](https://ieeexplore.ieee.org/abstract/document/10446975) *ICASSP*. 2024.
+
+[Distributed Riemannian Stochastic Gradient Tracking Algorithm on the Stiefel Manifold](https://arxiv.org/pdf/2405.16900) *Arxiv*. 2024.
+
 [Riemannian SVRG Using Barzilai–Borwein Method as Second-Order Approximation for Federated Learning](https://www.mdpi.com/2073-8994/16/9/1101) *Symmetry*. 2024.
 
 [Decentralized Online Riemannian Optimization with Dynamic Environments](https://arxiv.org/pdf/2410.05128) *Arxiv*. 2024.
@@ -430,6 +434,12 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Federated learning on Riemannian manifolds with differential privacy](https://arxiv.org/pdf/2404.10029) *Arxiv*. 2024.
 
 [Decentralized Riemannian Conjugate Gradient Method on the Stiefel Manifold](https://openreview.net/forum?id=PQbFUMKLFp) *ICLR*. 2024.
+
+[Riemannian Consensus for Manifolds With Bounded Curvature](https://ieeexplore.ieee.org/abstract/document/6332485) *IEEE Trans. Autom. Control.*. 2023.
+
+[Incremental Aggregated Riemannian Gradient Method for Distributed PCA](https://proceedings.mlr.press/v206/wang23j.html) *AISTATS*. 2023.
+ 
+[Distributed Consensus on Manifolds using the Riemannian Center of Mass](https://ieeexplore.ieee.org/abstract/document/10253227) *CCTA*. 2023.
 
 [Federated Learning on Riemannian Manifolds](https://web.p.ebscohost.com/abstract?site=ehost&scope=site&jrnl=25627775&AN=169957689&h=CTH4I4fXWYGdfdGaGZDlGwlkn7XM50pPHPogPGDfjOktl384pm8GO4OpNIaOQHQe%2bpLOB7Vfmx7oJvM0dUtTeQ%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d25627775%26AN%3d169957689) *Appl. Set-Valued Anal. Optim.* 2023.
 
