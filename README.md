@@ -207,7 +207,9 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Stochastic Zeroth-Order Riemannian Derivative Estimation and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1302?casa_token=-PpmKJFuuF8AAAAA:VDxcY2m0VIJtxaSoDuz5eN8FzXCnzTJ-19O5Cfjnr8YzFtoZKWRX_wXmeOos-WaGkXZM3trAIdyZLQ) *Math. Oper. Res.* 2022.
 
+[A Modified Particle Swarm Optimization Algorithm for the Best Low Multilinear Rank Approximation of Higher-Order Tensors](https://link.springer.com/chapter/10.1007/978-3-642-15461-4_2), *Swarm Intelligence*. 2010.
 
+[Direct Search Methods on Riemannian Manifolds](https://optimization-online.org/2007/08/1742/) *Optim. Online* 2007.
 
 ## Stochastic Optimization
 > Methods for stochastic and finite-sum optimization on Riemannian manifolds
@@ -463,7 +465,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Riemannian Consensus for Manifolds With Bounded Curvature](https://ieeexplore.ieee.org/abstract/document/6332485) *IEEE Trans. Autom. Control.*. 2023.
 
 [Incremental Aggregated Riemannian Gradient Method for Distributed PCA](https://proceedings.mlr.press/v206/wang23j.html) *AISTATS*. 2023.
- 
+
 [Distributed Consensus on Manifolds using the Riemannian Center of Mass](https://ieeexplore.ieee.org/abstract/document/10253227) *CCTA*. 2023.
 
 [Federated Learning on Riemannian Manifolds](https://web.p.ebscohost.com/abstract?site=ehost&scope=site&jrnl=25627775&AN=169957689&h=CTH4I4fXWYGdfdGaGZDlGwlkn7XM50pPHPogPGDfjOktl384pm8GO4OpNIaOQHQe%2bpLOB7Vfmx7oJvM0dUtTeQ%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d25627775%26AN%3d169957689) *Appl. Set-Valued Anal. Optim.* 2023.
