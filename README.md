@@ -482,6 +482,9 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Communication-Efficient Distributed PCA by Riemannian Optimization](https://proceedings.mlr.press/v119/huang20e.html) *ICML*. 2020.
 
+[A Riemannian gossip approach to subspace learning on Grassmann manifold](https://link.springer.com/article/10.1007/s10994-018-05775-x) *Mach. Learn.* 2019.
+
+
 # 3. Software
 
 1. [ManOpt](https://github.com/NicolasBoumal/manopt): A Matlab toolbox for optimization on manifolds.
