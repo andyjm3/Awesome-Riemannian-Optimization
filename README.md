@@ -422,6 +422,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Federated and Distributed Optimization
 > Optimization on manifolds spanning multiple deviced or agents.
 
+[Distributed sparsity constrained optimization over the Stiefel manifold](https://www.sciencedirect.com/science/article/pii/S0925231224010385) *Neurocomputing*. 2024.
+
 [A Double Tracking Method for Optimization with Decentralized Generalized Orthogonality Constraints](https://arxiv.org/pdf/2409.04998) *Arxiv*. 2024.
 
 [Riemannian Diffusion Adaptation over Graphs with Application to Online Distributed PCA](https://ieeexplore.ieee.org/abstract/document/10446975) *ICASSP*. 2024.
@@ -443,6 +445,14 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Federated learning on Riemannian manifolds with differential privacy](https://arxiv.org/pdf/2404.10029) *Arxiv*. 2024.
 
 [Decentralized Riemannian Conjugate Gradient Method on the Stiefel Manifold](https://openreview.net/forum?id=PQbFUMKLFp) *ICLR*. 2024.
+
+[Smoothing gradient tracking for decentralized optimization over the stiefel manifold with non-smooth regularizers](https://ieeexplore.ieee.org/abstract/document/10383237) *CDC*. 2023.
+
+[A variance-reduced stochastic gradient tracking algorithm for decentralized optimization with orthogonality constraints](https://www.aimsciences.org/article/doi/10.3934/jimo.2023018) *J. Ind. Manag. Optim.*. 2023.
+
+[Decentralized Douglas-Rachford splitting methods for smooth optimization over compact submanifolds](https://arxiv.org/pdf/2303.09611) *Arxiv*. 2023.
+
+[Decentralized Riemannian natural gradient methods with Kronecker-product approximations](https://arxiv.org/pdf/2303.09611) *Arxiv*. 2023.
 
 [On the Local Linear Rate of Consensus on the Stiefel Manifold](https://ieeexplore.ieee.org/abstract/document/10310108) *IEEE Trans. Autom. Control.*. 2023.
 
