@@ -29,6 +29,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
     - [General Manifold](#general-manifold)
   - [Differentially Private Optimization](#differentially-private-optimization)
   - [Federated and Distributed Optimization](#federated-and-distributed-optimization)
+  - [Modern Applications of Riemannian Optimization](#modern-applications-of-riemannian-optimization)
 - [3. Software](#3-software)
 </details>
 
