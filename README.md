@@ -35,9 +35,10 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 # 1. Books
 
 1. [Optimization Algorithms on Matrix Manifolds](https://press.princeton.edu/absil?srsltid=AfmBOorlfmgaTCzFeGcEDw9mxNrVvWMaKhY578kDlMOKlYY9D-G9ar3n) *Cambridge University Press*. 2023
-2. [Convex Analysis and Optimization in Hadamard Spaces](https://www.degruyter.com/document/doi/10.1515/9783110361629/html) *De Gruyter* 2014
-3. [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/) *Princeton University Press*. 2008
-4. [Convex Functions and Optimization Methods on Riemannian Manifolds](https://link.springer.com/book/10.1007/978-94-015-8390-9) *Kluwer Academic Publishers Group* 1994
+2. [Convex Analysis and Optimization in Hadamard Spaces](https://www.degruyter.com/document/doi/10.1515/9783110361629/html) *De Gruyter*. 2014
+3. [Riemannian Optimization and Its Applications](https://link.springer.com/book/10.1007/978-3-030-62391-3) *Spinger*. 2021.
+4. [An introduction to Optimization on smooth manifolds](https://www.nicolasboumal.net/book/) *Princeton University Press*. 2008
+5. [Convex Functions and Optimization Methods on Riemannian Manifolds](https://link.springer.com/book/10.1007/978-94-015-8390-9) *Kluwer Academic Publishers Group*. 1994
 
 # 2. Papers
 
