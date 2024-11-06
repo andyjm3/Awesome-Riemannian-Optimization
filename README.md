@@ -336,9 +336,13 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Interior-point methods on manifolds: theory and applications](https://ieeexplore.ieee.org/abstract/document/10353110?casa_token=_waujfZAdQgAAAAA:E5r0Eog9QD5aoZC5FwWLPM-PVrq5A7lgnSbTAJQKnG_lpsz1wcvN-R90A6vwy4GnZpHvtbx8csmE) *FOCS*. 2023.
 
+[Sequential optimality conditions for nonlinear optimization on Riemannian manifolds and a globally convergent augmented Lagrangian method](https://link.springer.com/article/10.1007/s10589-021-00336-w)  *Comput. Optim. Appl.* 2022.
+
 [Projection-free nonconvex stochastic optimization on Riemannian manifolds](https://academic.oup.com/imajna/article/42/4/3241/6374894?login=true) *IMA J. Numer. Anal.* 2022.
 
-[Intrinsic formulation of KKT conditions and constraint qualifications on smooth manifolds](https://epubs.siam.org/doi/10.1137/18M1181602) *SIAM J. Optim.* 2021
+[An SQP method for equality constrained optimization on Hilbert manifolds](https://epubs.siam.org/doi/abs/10.1137/20M1341325) *SIAM J. Optim.* 2021.
+
+[Intrinsic formulation of KKT conditions and constraint qualifications on smooth manifolds](https://epubs.siam.org/doi/10.1137/18M1181602) *SIAM J. Optim.* 2021.
 
 [Simple algorithms for optimization on Riemannian manifolds with constraints](https://link.springer.com/article/10.1007/s00245-019-09564-3) *Appl. Math. Optim.* 2020.
 
