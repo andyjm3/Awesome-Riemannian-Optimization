@@ -302,6 +302,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Fenchel duality theory and a primal-dual algorithm on Riemannian manifolds](https://link.springer.com/article/10.1007/s10208-020-09486-5), *Found. Comput. Math.* 2021
 
+[Manifold Sampling for Optimizing Nonsmooth Nonconvex Compositions](https://epubs.siam.org/doi/abs/10.1137/20M1378089) *SIAM J. Optim.* 2021.
 
 [Weakly Convex Optimization over Stiefel Manifold Using Riemannian Subgradient-Type Methods](https://epubs.siam.org/doi/abs/10.1137/20M1321000) *SIAM J. Optim.* 2021.
 
