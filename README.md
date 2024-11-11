@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0dfb1d94-1089-4773-8cf4-75c92fe8f996)# A Handbook on Riemannian Optimization
+# A Handbook on Riemannian Optimization
 This repo contains papers, books, tutorials and resources on Riemannian optimization.
 
 ⚡ This repo is currently under-developed. Any suggestions are welcome!⚡
