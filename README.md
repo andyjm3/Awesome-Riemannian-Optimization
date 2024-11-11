@@ -497,7 +497,18 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Multi-objective Optimization
 > Study optimization on manifolds with multiple objective
 
+
 [Multiobjective BFGS method for optimization on Riemannian manifolds](https://link.springer.com/article/10.1007/s10589-023-00522-y) *Comput. Optim. Appl.* 2024.
+
+[Multiobjective Conjugate Gradient Methods on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-023-02224-1) *J. Optim. Theory Appl.* 2023.
+
+[The generalized conditional gradient method for composite multiobjective optimization problems on Riemannian manifolds](https://jnva.biemdas.com/archives/2074) *J. Nonlinear Var. Anal.* 2023.
+
+[Convergence of Inexact Steepest Descent Algorithm for Multiobjective Optimizations on Riemannian Manifolds Without Curvature Constraints](https://link.springer.com/article/10.1007/s11590-018-1353-8) *Optim Lett.* 2019.
+
+[Convergence analysis of a nonmonotone projected gradient method for multiobjective optimization problems](https://link.springer.com/article/10.1007/s11590-018-1353-8) *Optim Lett.* 2019.
+
+[Proximal Point Method for Locally Lipschitz Functions in Multiobjective Optimization of Hadamard Manifolds](https://link.springer.com/article/10.1007/s10957-018-1330-5) *J. Optim. Theory Appl.* 2018.
 
 [A Subgradient Method for Multiobjective Optimization on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-013-0307-7) *J. Optim. Theory Appl.* 2013.
 
