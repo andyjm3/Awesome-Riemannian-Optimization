@@ -502,7 +502,15 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Multiobjective Conjugate Gradient Methods on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-023-02224-1) *J. Optim. Theory Appl.* 2023.
 
+[Proximal algorithm with quasidistances for multiobjective quasiconvex minimization in Riemannian manifolds](https://www.rairo-ro.org/articles/ro/abs/2023/04/ro230238/ro230238.html) *RAIRO-Oper. Res.* 2023.
+
+[A Trust Region Method for Solving Multicriteria Optimization Problems on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-022-02142-8) *J. Optim. Theory Appl.* 2023.
+
 [The generalized conditional gradient method for composite multiobjective optimization problems on Riemannian manifolds](https://jnva.biemdas.com/archives/2074) *J. Nonlinear Var. Anal.* 2023.
+
+[Batched Data-Driven Evolutionary Multiobjective Optimization Based on Manifold Interpolation](https://ieeexplore.ieee.org/document/9744035) *IEEE Trans. Evol. Comput.* 2023.
+
+[Iteration-Complexity and Asymptotic Analysis of Steepest Descent Method for Multiobjective Optimization on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-019-01615-7) *J. Optim. Theory Appl.* 2020.
 
 [Convergence of Inexact Steepest Descent Algorithm for Multiobjective Optimizations on Riemannian Manifolds Without Curvature Constraints](https://link.springer.com/article/10.1007/s11590-018-1353-8) *Optim Lett.* 2019.
 
