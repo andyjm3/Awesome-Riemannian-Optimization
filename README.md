@@ -1,4 +1,4 @@
-# A Handbook on Riemannian Optimization
+![image](https://github.com/user-attachments/assets/0dfb1d94-1089-4773-8cf4-75c92fe8f996)# A Handbook on Riemannian Optimization
 This repo contains papers, books, tutorials and resources on Riemannian optimization.
 
 ⚡ This repo is currently under-developed. Any suggestions are welcome!⚡
@@ -29,6 +29,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
     - [General Manifold](#general-manifold)
   - [Differentially Private Optimization](#differentially-private-optimization)
   - [Federated and Distributed Optimization](#federated-and-distributed-optimization)
+  - [Multi-objective Optimization](#multi-objective-optimization)
 - [3. Software](#3-software)
 </details>
 
@@ -491,6 +492,14 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Communication-Efficient Distributed PCA by Riemannian Optimization](https://proceedings.mlr.press/v119/huang20e.html) *ICML*. 2020.
 
 [A Riemannian gossip approach to subspace learning on Grassmann manifold](https://link.springer.com/article/10.1007/s10994-018-05775-x) *Mach. Learn.* 2019.
+
+
+## Multi-objective Optimization
+> Study optimization on manifolds with multiple objective
+
+[Multiobjective BFGS method for optimization on Riemannian manifolds](https://link.springer.com/article/10.1007/s10589-023-00522-y) *Comput. Optim. Appl.* 2024.
+
+[A Subgradient Method for Multiobjective Optimization on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-013-0307-7) *J. Optim. Theory Appl.* 2013.
 
 
 # 3. Software
