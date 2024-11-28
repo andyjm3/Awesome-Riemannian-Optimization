@@ -473,8 +473,6 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [On the Local Linear Rate of Consensus on the Stiefel Manifold](https://ieeexplore.ieee.org/abstract/document/10310108) *IEEE Trans. Autom. Control.*. 2023.
 
-[Riemannian Consensus for Manifolds With Bounded Curvature](https://ieeexplore.ieee.org/abstract/document/6332485) *IEEE Trans. Autom. Control.*. 2023.
-
 [Incremental Aggregated Riemannian Gradient Method for Distributed PCA](https://proceedings.mlr.press/v206/wang23j.html) *AISTATS*. 2023.
 
 [Distributed Consensus on Manifolds using the Riemannian Center of Mass](https://ieeexplore.ieee.org/abstract/document/10253227) *CCTA*. 2023.
@@ -494,6 +492,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Communication-Efficient Distributed PCA by Riemannian Optimization](https://proceedings.mlr.press/v119/huang20e.html) *ICML*. 2020.
 
 [A Riemannian gossip approach to subspace learning on Grassmann manifold](https://link.springer.com/article/10.1007/s10994-018-05775-x) *Mach. Learn.* 2019.
+
+[Riemannian Consensus for Manifolds With Bounded Curvature](https://ieeexplore.ieee.org/abstract/document/6332485) *IEEE Trans. Autom. Control.*. 2013.
 
 
 ## Multi-objective Optimization
