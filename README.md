@@ -263,6 +263,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Geodesic Convex and Nonconvex Optimization
 > Convergence theory, analysis and lower bound for geodesic convex and nonconvex optimization on Riemannian manifolds
 
+[Non-parametric Online Change Point Detection on Riemannian Manifolds](https://proceedings.mlr.press/v235/wang24f.html). *ICML*. 2024.
+
 [Geodesic Convexity of the Symmetric Eigenvalue Problem and Convergence of Steepest Descent](https://link.springer.com/article/10.1007/s10957-024-02538-8) *J. Optim. Theory Appl.* 2024.
 
 [Curvature and complexity: Better lower bounds for geodesically convex optimization](https://proceedings.mlr.press/v195/criscitiello23a/criscitiello23a.pdf) *COLT*. 2023.
@@ -277,7 +279,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [First-order Methods for Geodesically Convex Optimization](https://proceedings.mlr.press/v49/zhang16b.pdf) *COLT*. 2016.
 
-[Non-parametric Online Change Point Detection on Riemannian Manifolds](https://proceedings.mlr.press/v235/wang24f.html). *ICML*. 2024.
+
 
 ## Nonsmooth Optimization
 > Methods for solving nonsmooth optimization on manifolds
@@ -438,6 +440,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ## Federated and Distributed Optimization
 > Optimization on manifolds spanning multiple deviced or agents.
+
+[Riemannian Diffusion Adaptation for Distributed Optimization on Manifolds]() *ICML*. 2025.
 
 [Distributed sparsity constrained optimization over the Stiefel manifold](https://www.sciencedirect.com/science/article/pii/S0925231224010385) *Neurocomputing*. 2024.
 
