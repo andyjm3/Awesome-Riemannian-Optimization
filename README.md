@@ -441,7 +441,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Federated and Distributed Optimization
 > Optimization on manifolds spanning multiple deviced or agents.
 
-[Riemannian Diffusion Adaptation for Distributed Optimization on Manifolds]() *ICML*. 2025.
+[Riemannian Diffusion Adaptation for Distributed Optimization on Manifolds](https://xiuheng-wang.github.io/assets/pdf/wang2025riemannian.pdf) *ICML*. 2025.
 
 [Distributed sparsity constrained optimization over the Stiefel manifold](https://www.sciencedirect.com/science/article/pii/S0925231224010385) *Neurocomputing*. 2024.
 
