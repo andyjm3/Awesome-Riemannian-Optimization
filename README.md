@@ -277,7 +277,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [First-order Methods for Geodesically Convex Optimization](https://proceedings.mlr.press/v49/zhang16b.pdf) *COLT*. 2016.
 
-
+[Non-parametric Online Change Point Detection on Riemannian Manifolds](https://proceedings.mlr.press/v235/wang24f.html). *ICML*. 2024.
 
 ## Nonsmooth Optimization
 > Methods for solving nonsmooth optimization on manifolds
