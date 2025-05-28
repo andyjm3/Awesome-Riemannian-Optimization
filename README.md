@@ -252,6 +252,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ### Adaptive Gradient
 
+[Adaptive Gradient Descent on Riemannian Manifolds with Nonnegative Curvature](https://arxiv.org/pdf/2504.16724) *Arxiv*. 2025.
+
 [A general framework of Riemannian adaptive optimization methods with a convergence analysis](https://arxiv.org/pdf/2409.00859) *Arxiv*. 2024.
 
 [Riemannian Adaptive Optimization Algorithm and its Application to Natural Language Processing](https://ieeexplore.ieee.org/abstract/document/9339934) *IEEE Trans. Cybern.* 2022.
@@ -328,6 +330,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Constrained Optimization
 > Methods for solving optimization problems on manifolds with constraints
 
+[Local near-quadratic convergence of Riemannian interior point methods](https://arxiv.org/pdf/2505.19724) *Arxiv*. 2025.
+
 [Structured Regularization for Constrained Optimization on the SPD Manifold](https://arxiv.org/pdf/2410.09660) *Arxiv*. 2024.
 
 [Constraint Qualifications and Strong Global Convergence Properties of an Augmented Lagrangian Method on Riemannian Manifolds](https://epubs.siam.org/doi/full/10.1137/23M1582382?casa_token=x_-MW4p3aRQAAAAA%3Ae7JGmWcuZYdDpnSb-qr3odKUxCid5TySpZ_TPwMd03hPROjmLdy2yTNcrYApBHrwOXTnl2wOqjKK) *SIAM J. Optim.* 2024.
@@ -359,6 +363,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ### Bilevel Optimization
 
+[An Adaptive Algorithm for Bilevel Optimization on Riemannian Manifolds](https://arxiv.org/pdf/2504.06042) *Arxiv*. 2025.
+
 [A framework for bilevel optimization on Riemannian manifolds](https://arxiv.org/pdf/2402.03883) *NeurIPS*. 2024.
 
 [Riemannian Bilevel Optimization](https://arxiv.org/pdf/2405.15816) *Arxiv*. 2024.
@@ -368,6 +374,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Semivectorial bilevel optimization on Riemannian manifolds](https://dl.acm.org/doi/abs/10.1007/s10957-015-0789-6) *J. Optim. Theory Appl.* 2015.
 
 ### Min-max Optimization
+
+[Proximal Gradient Descent Ascent Methods for Nonsmooth Nonconvex-Concave Minimax Problems on Riemannian Manifolds](https://arxiv.org/pdf/2505.02140) *Arxiv*. 2025.
 
 [A Riemannian Alternating Descent Ascent Algorithmic Framework for Nonconvex-Linear Minimax Problems on Riemannian Manifolds](https://arxiv.org/pdf/2409.19588) *Arxiv*. 2024.
 
@@ -398,6 +406,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 > Tackling expensive retraction for scaling Riemannian optimization
 
 ### Stiefel (Orthogonal) Manifold
+
+[Efficient Optimization with Orthogonality Constraint: a Randomized Riemannian Submanifold Method](https://arxiv.org/pdf/2505.12378) *ICML*. 2025.
 
 [Solving Optimization Problems over the Stiefel Manifold by Smooth Exact Penalty Functions](https://global-sci.org/intro/article_detail.html?journal=undefined&article_id=23277) *J. Comp. Math.* 2024.
 
