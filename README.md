@@ -288,6 +288,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Nonsmooth Optimization
 > Methods for solving nonsmooth optimization on manifolds
 
+[On Relatively Smooth Optimization over Riemannian Manifolds](https://arxiv.org/pdf/2508.03048) *Arxiv*. 2025.
+
 [On the Oracle Complexity of a Riemannian Inexact Augmented Lagrangian Method for Riemannian Nonsmooth Composite Problems](https://arxiv.org/pdf/2410.00482?) *Arxiv*. 2024.
 
 [A Riemannian Proximal Newton-CG Method](https://arxiv.org/pdf/2405.08365) *Arxiv*. 2024.
