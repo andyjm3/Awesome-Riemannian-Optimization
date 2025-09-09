@@ -46,6 +46,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Acceleration
 > Accelerated gradient methods and analysis on Riemannian manifolds.
 
+[Acceleration via silver step-size on Riemannian manifolds with applications to Wasserstein space](https://arxiv.org/pdf/2506.06160) *Arxiv*. 2025.
+
 [Accelerated Gradient Dynamics on Riemannian Manifolds: Faster Rate and Trajectory Convergence](https://arxiv.org/pdf/2312.06366) *Arxiv*. 2023.
 
 [Riemannian accelerated gradient methods via extrapolation](https://proceedings.mlr.press/v206/han23a/han23a.pdf) *AISTATS*. 2023.
