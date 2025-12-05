@@ -218,6 +218,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Stochastic Optimization
 > Methods for stochastic and finite-sum optimization on Riemannian manifolds
 
+[Continuous-time Riemannian SGD and SVRG Flows on Wasserstein Probabilistic Space](https://arxiv.org/abs/2401.13530) *NeurIPS*. 2025.
+
 [Stochastic Modified Flows for Riemannian Stochastic Gradient Descent](https://arxiv.org/pdf/2402.03467) *Arxiv*. 2024.
 
 [Stochastic approximation on riemannian manifolds](https://link.springer.com/article/10.1007/s00245-019-09581-2) *Appl. Math. Optim.* 2021.
@@ -287,6 +289,10 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 ## Nonsmooth Optimization
 > Methods for solving nonsmooth optimization on manifolds
+
+[Finite-Time Analysis of Stochastic Nonconvex Nonsmooth Optimization on the Riemannian Manifolds](https://arxiv.org/abs/2510.21468) *NeurIPS.* 2025.
+
+[Adaptive Riemannian ADMM for Nonsmooth Optimization: Optimal Complexity without Smoothing](https://arxiv.org/abs/2510.18617) *NeurIPS.* 2025.
 
 [On Relatively Smooth Optimization over Riemannian Manifolds](https://arxiv.org/pdf/2508.03048) *Arxiv*. 2025.
 
