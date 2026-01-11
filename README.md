@@ -290,6 +290,10 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Nonsmooth Optimization
 > Methods for solving nonsmooth optimization on manifolds
 
+[Two Nonmonotone Proximal Gradient Methods for Nonsmooth Optimization over the Stiefel Manifold](https://link.springer.com/article/10.1007/s10255-024-1065-z). 2026
+
+[A Single-loop Stochastic Riemannian ADMM for Nonsmooth Optimization](https://arxiv.org/pdf/2512.22750) *Arxiv*. 2025.
+
 [Finite-Time Analysis of Stochastic Nonconvex Nonsmooth Optimization on the Riemannian Manifolds](https://arxiv.org/abs/2510.21468) *NeurIPS.* 2025.
 
 [Adaptive Riemannian ADMM for Nonsmooth Optimization: Optimal Complexity without Smoothing](https://arxiv.org/abs/2510.18617) *NeurIPS.* 2025.
