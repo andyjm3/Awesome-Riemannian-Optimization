@@ -30,6 +30,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
   - [Differentially Private Optimization](#differentially-private-optimization)
   - [Federated and Distributed Optimization](#federated-and-distributed-optimization)
   - [Multi-objective Optimization](#multi-objective-optimization)
+  - [Modern Applications to Large Models](#modern-applications-to-large-models)
 - [3. Software](#3-software)
 </details>
 
@@ -549,6 +550,20 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Proximal Point Method for Locally Lipschitz Functions in Multiobjective Optimization of Hadamard Manifolds](https://link.springer.com/article/10.1007/s10957-018-1330-5) *J. Optim. Theory Appl.* 2018.
 
 [A Subgradient Method for Multiobjective Optimization on Riemannian Manifolds](https://link.springer.com/article/10.1007/s10957-013-0307-7) *J. Optim. Theory Appl.* 2013.
+
+
+
+## Modern Applications to Large Models
+> Applications of Riemannian geometry and optimization to large foundation models
+
+[mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880) *Arxiv*. 2026.
+
+[LoRA meets Riemannion: Muon Optimizer for Parametrization-independent Low-Rank Adapters](https://arxiv.org/abs/2507.12142) *Arxiv*. 2025.
+
+[Parameter and memory efficient pretraining via low-rank riemannian optimization](https://openreview.net/forum?id=i0zzO7Hslk) *ICLR*. 2025.
+
+[Riemannian preconditioned lora for fine-tuning foundation models](https://proceedings.mlr.press/v235/zhang24ax.html) *ICML*. 2024.
+
 
 
 # 3. Software
