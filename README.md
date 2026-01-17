@@ -206,6 +206,10 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Zeroth-Order Optimization
 > Derivative-free and zeroth-order optimization on manifolds
 
+[Riemannian optimization with finite-difference gradient approximations](https://arxiv.org/pdf/2601.08751) *Arxiv*. 2026.
+
+[Riemannian Zeroth-Order Gradient Estimation with Structure-Preserving Metrics for Geodesically Incomplete Manifolds](https://arxiv.org/pdf/2601.08039) *Arxiv*. 2026.
+
 [Riemannian Accelerated Zeroth-order Algorithm: Improved Robustness and Lower Query Complexity](https://proceedings.mlr.press/v235/he24h.html) *ICML*. 2024.
 
 [Zeroth-order Riemannian averaging stochastic approximation algorithms](https://epubs.siam.org/doi/full/10.1137/23M1605405?casa_token=GLUmnHCFPmcAAAAA%3AtqbK_tVkMUKRsj35eGERgQf4iTK04yGccBARgFVCjHFvBCFP6JKxCWOD-z9xRRnDGsV6SG9xbYCQ) *SIAM J. Optim.* 2024.
