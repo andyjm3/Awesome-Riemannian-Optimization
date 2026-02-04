@@ -560,6 +560,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Modern Applications to Large Models
 > Applications of Riemannian geometry and optimization to large foundation models
 
+[Manifold constrained steepest descent](https://arxiv.org/pdf/2601.21487) *Arxiv*. 2026.
+
 [mHC: Manifold-Constrained Hyper-Connections](https://arxiv.org/pdf/2512.24880) *Arxiv*. 2026.
 
 [LoRA meets Riemannion: Muon Optimizer for Parametrization-independent Low-Rank Adapters](https://arxiv.org/abs/2507.12142) *Arxiv*. 2025.
