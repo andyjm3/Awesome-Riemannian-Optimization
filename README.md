@@ -12,7 +12,7 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
   - [Acceleration](#acceleration)
   - [Conjugate Gradient Methods](#conjugate-gradient-methods)
   - [Quasi-Newton Methods](#quasi-newton-methods)
-  - [Second-order Methods](#second-order-methods)
+  - [Second-order and Higher-order Methods](#second-order-higher-order-methods)
   - [Zeroth-Order Optimization](#zeroth-order-optimization)
   - [Stochastic Optimization](#stochastic-optimization)
     - [Variance Reduction](#variance-reduction)
@@ -160,8 +160,10 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 [Riemannian BFGS Algorithm with Applications](https://link.springer.com/chapter/10.1007/978-3-642-12598-0_16) *Recent Advances in Optimization and its Applications in Engineering*. 2010.
 
 
-## Second-order Methods
-> Second-order methods on Riemannian manifolds.
+## Second-order and Higher-order Methods
+> Second- and higher-order methods on Riemannian manifolds.
+
+[An Invitation to Higher-Order Riemannian Optimization: Optimal and Implementable Methods](https://arxiv.org/pdf/2601.22126) *Arxiv* 2026.
 
 [Sub-sampled adaptive trust region method on Riemannian manifolds](https://onlinelibrary.wiley.com/doi/full/10.1002/nla.2557) *Numer. Linear Algebra Appl.* 2024.
 
