@@ -216,6 +216,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 
 [Zeroth-order Riemannian averaging stochastic approximation algorithms](https://epubs.siam.org/doi/full/10.1137/23M1605405?casa_token=GLUmnHCFPmcAAAAA%3AtqbK_tVkMUKRsj35eGERgQf4iTK04yGccBARgFVCjHFvBCFP6JKxCWOD-z9xRRnDGsV6SG9xbYCQ) *SIAM J. Optim.* 2024.
 
+[Retraction-Based Direct Search Methods for Derivative Free Riemannian Optimization](https://link.springer.com/article/10.1007/s10957-023-02268-3) *J. Optim. Theory Appl.* 2023.
+
 [Stochastic Zeroth-Order Riemannian Derivative Estimation and Optimization](https://pubsonline.informs.org/doi/abs/10.1287/moor.2022.1302?casa_token=-PpmKJFuuF8AAAAA:VDxcY2m0VIJtxaSoDuz5eN8FzXCnzTJ-19O5Cfjnr8YzFtoZKWRX_wXmeOos-WaGkXZM3trAIdyZLQ) *Math. Oper. Res.* 2022.
 
 [A Modified Particle Swarm Optimization Algorithm for the Best Low Multilinear Rank Approximation of Higher-Order Tensors](https://link.springer.com/chapter/10.1007/978-3-642-15461-4_2), *Swarm Intelligence*. 2010.
