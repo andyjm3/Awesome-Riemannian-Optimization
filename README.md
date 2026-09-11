@@ -163,6 +163,8 @@ This repo contains papers, books, tutorials and resources on Riemannian optimiza
 ## Second-order and Higher-order Methods
 > Second- and higher-order methods on Riemannian manifolds.
 
+[The Blessing and Curse of Curvature in Higher-Order Optimization: Horospherical versus Geodesic Convexity](https://arxiv.org/abs/2608.06719) *Arxiv* 2026.
+
 [An Invitation to Higher-Order Riemannian Optimization: Optimal and Implementable Methods](https://arxiv.org/pdf/2601.22126) *Arxiv* 2026.
 
 [Sub-sampled adaptive trust region method on Riemannian manifolds](https://onlinelibrary.wiley.com/doi/full/10.1002/nla.2557) *Numer. Linear Algebra Appl.* 2024.
